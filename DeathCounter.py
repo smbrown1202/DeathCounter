@@ -6,7 +6,7 @@ from tkinter import *
         
 def popup():
     
-    death_file = "DeathCounter//deathcount.txt"
+    death_file = "//DeathCounter//deathcount.txt"
     
     def get_death_count():
         with open(death_file, 'r') as file:
@@ -40,8 +40,9 @@ def popup():
                 invalid_message.pack()
         
             else:
+                death_count = original_death_count + 1
                 #TO DO - original_death_count + 1 limits this to only updating the death count in this string once
-                death_string = "Death %d: Killed by %s in %s on %s \n"%(original_death_count + 1, death_reason.get(), death_location, death_time.strftime("%c"))
+                death_string = "Death %d: Killed by %s in %s on %s \n"%(death_count, death_reason.get(), death_location, death_time.strftime("%c"))
 
                 with open(death_file, 'a+') as file:
                     file.write(death_string)
