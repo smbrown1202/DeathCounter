@@ -408,3 +408,98 @@ Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:55:34 2022
 Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:56:46 2022 
 Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 10:59:29 2022 
 Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 11:00:05 2022 
+Death 411: Killed by Bird in Stormveil Castle on Mon Mar  7 11:28:27 2022 
+Death 412: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:28:35 2022 
+Death 413: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:30:41 2022 
+Death 414: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:33:05 2022 
+Death 415: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:35:39 2022 
+Death 416: Killed by Bird in Stormveil Castle on Mon Mar  7 11:37:10 2022 
+Death 417: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 11:43:24 2022 
+Death 418: Killed by Bird in Stormveil Castle on Mon Mar  7 11:44:35 2022 
+Death 419: Killed by Bird in Stormveil Castle on Mon Mar  7 11:45:41 2022 
+Death 420: Killed by Bird in Stormveil Castle on Mon Mar  7 11:46:29 2022 
+Death 421: Killed by Bird in Stormveil Castle on Mon Mar  7 11:47:47 2022 
+Death 422: Killed by Bird in Stormveil Castle on Mon Mar  7 11:48:39 2022 
+Death 423: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:51:16 2022 
+Death 424: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:53:50 2022 
+Death 425: Killed by Bird in Stormveil Castle on Mon Mar  7 11:54:51 2022 
+Death 426: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:57:22 2022 
+Death 427: Killed by Bird in Stormveil Castle on Mon Mar  7 11:58:22 2022 
+Death 428: Killed by Bird in Stormveil Castle on Mon Mar  7 11:59:21 2022 
+Death 429: Killed by Bird in Stormveil Castle on Mon Mar  7 12:01:17 2022 
+Death 430: Killed by Bird in Stormveil Castle on Mon Mar  7 12:02:07 2022 
+Death 431: Killed by Cliff in Stormveil Castle on Mon Mar  7 12:04:36 2022 
+Death 432: Killed by Bird in Stormveil Castle on Mon Mar  7 12:05:50 2022 
+Death 433: Killed by Bird in Stormveil Castle on Mon Mar  7 12:06:30 2022 
+Death 434: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:08:40 2022 
+Death 435: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:10:42 2022 
+Death 436: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:13:45 2022 
+Death 437: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 12:18:03 2022 
+Death 438: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:20:24 2022 
+Death 439: Killed by Bird in Stormveil Castle on Mon Mar  7 12:21:27 2022 
+Death 440: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 12:26:54 2022 
+Death 441: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:29:41 2022 
+Death 442: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:32:33 2022 
+Death 443: Killed by Bird in Stormveil Castle on Mon Mar  7 12:33:16 2022 
+Death 444: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:36:19 2022 
+Death 445: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:38:01 2022 
+Death 446: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:40:26 2022 
+Death 447: Killed by Bird in Stormveil Castle on Mon Mar  7 12:41:30 2022 
+Death 448: Killed by Bird in Stormveil Castle on Mon Mar  7 12:42:35 2022 
+Death 449: Killed by Bird in Stormveil Castle on Mon Mar  7 12:43:31 2022 
+Death 450: Killed by Bird in Stormveil Castle on Mon Mar  7 12:45:06 2022 
+Death 451: Killed by Bird in Stormveil Castle on Mon Mar  7 12:45:55 2022 
+Death 452: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:48:42 2022 
+Death 453: Killed by Black and Silver in Stormveil Castle on Mon Mar  7 12:53:32 2022 
+Death 454: Killed by Dead Guy in Stormveil Castle on Mon Mar  7 12:56:31 2022 
+Death 455: Killed by Cliff in Stormveil Castle on Mon Mar  7 12:58:52 2022 
+Death 456: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:41:21 2022 
+Death 457: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:44:15 2022 
+Death 458: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:47:00 2022 
+Death 459: Killed by Cliff in Stormveil Castle on Mon Mar  7 15:47:44 2022 
+Death 460: Killed by Bird in Stormveil Castle on Mon Mar  7 15:48:57 2022 
+Death 461: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:50:57 2022 
+Death 462: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:53:22 2022 
+Death 463: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:56:51 2022 
+Death 464: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:00:15 2022 
+Death 465: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:03:52 2022 
+Death 466: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:06:50 2022 
+Death 467: Killed by Sentry in Stormveil Castle on Mon Mar  7 16:09:16 2022 
+Death 468: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:11:55 2022 
+Death 469: Killed by Bird in Stormveil Castle on Mon Mar  7 16:13:05 2022 
+Death 470: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:15:06 2022 
+Death 471: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:17:39 2022 
+Death 472: Killed by Bird in Stormveil Castle on Mon Mar  7 16:18:39 2022 
+Death 473: Killed by Bird in Stormveil Castle on Mon Mar  7 16:23:35 2022 
+Death 474: Killed by Bird in Stormveil Castle on Mon Mar  7 16:24:39 2022 
+Death 475: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:27:58 2022 
+Death 476: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:30:29 2022 
+Death 477: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:32:21 2022 
+Death 478: Killed by Bird in Stormveil Castle on Mon Mar  7 16:33:44 2022 
+Death 479: Killed by Bird in Stormveil Castle on Mon Mar  7 16:34:24 2022 
+Death 480: Killed by Bird in Stormveil Castle on Mon Mar  7 16:35:42 2022 
+Death 481: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:37:57 2022 
+Death 482: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:40:08 2022 
+Death 483: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:42:47 2022 
+Death 484: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:46:03 2022 
+Death 485: Killed by Bird in Stormveil Castle on Mon Mar  7 16:46:53 2022 
+Death 486: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:49:48 2022 
+Death 487: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:34:52 2022 
+Death 488: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:40:12 2022 
+Death 489: Killed by Dead Guy in Stormveil Castle on Mon Mar  7 17:46:05 2022 
+Death 490: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:48:32 2022 
+Death 491: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:51:32 2022 
+Death 492: Killed by Bird in Stormveil Castle on Mon Mar  7 21:27:31 2022 
+Death 493: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:29:14 2022 
+Death 494: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:31:41 2022 
+Death 495: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:34:31 2022 
+Death 496: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:38:27 2022 
+Death 497: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:40:51 2022 
+Death 498: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:43:34 2022 
+Death 499: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:46:18 2022
+Death 500: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:54:06 2022 
+Death 501: Killed by Sentry in Stormveil Castle on Mon Mar  7 21:56:28 2022 
+Death 502: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:59:08 2022 
+Death 503: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 22:01:12 2022 
+Death 504: Killed by Bird in Stormveil Castle on Tue Mar  8 22:04:52 2022 
+Death 505: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:07:37 2022 

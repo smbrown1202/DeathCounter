@@ -1,5 +1,6 @@
 from audioop import add
 import datetime
+from re import L
 from tkinter import ttk
 from tkinter import *
 from turtle import update
@@ -17,7 +18,9 @@ def popup():
         count_message.pack()
         
     def update_death_string_label(string):
-        success_text.configure(text=string)
+        global recent_death_string
+        recent_death_string = string
+        success_text.configure(text=recent_death_string)
         success_text.update()
         success_text.pack()
         
@@ -30,6 +33,7 @@ def popup():
     #create function to display text when button calls it
     def add_death(original_death_count):
         global additional_deaths
+        global recent_death_string
         
         #writes info to file
         def submit_death():
@@ -41,8 +45,12 @@ def popup():
                 update_recent_death("Total Deaths: %d"%current_death_count)
                 death_string = update_death_count_in_death_string(current_death_count)
                 update_death_string_label("Added death:\n%s"%death_string)
+                
                 global additional_deaths 
                 additional_deaths = additional_deaths + 1
+            
+            def repeat_death():
+                return None
             
             death_location = location_list.get()
             death_time = datetime.datetime.now()
@@ -83,6 +91,10 @@ def popup():
         
         submit = Button(frame, text="Submit", command=submit_death)
         submit.pack()
+        
+        if (additional_deaths != 0):
+            repeat_recent_death = Button(frame, text="Repeat Last Death", command=repeat_death)
+            repeat_recent_death.pack()
         
     #main window object
     main = Tk()
