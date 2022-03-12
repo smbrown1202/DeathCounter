@@ -1,88 +1,111 @@
-from audioop import add
-import datetime
+from datetime import datetime
 from tkinter import ttk
 from tkinter import *
-from turtle import update
-from webbrowser import get
 
 def popup():
+
+    global additional_deaths
     global death_count
-    def get_death_count():
+    
+    additional_deaths = 0
+    
+    def read_death_count_from_file():
         with open(death_file, 'r') as file:
             return len(file.readlines())
     
-    def update_recent_death(string):        
+    def update_total_death_count_in_main(string):        
         count_message.configure(text=string)
         count_message.update()
-        count_message.pack()
         
     def update_death_string_label(string):
-        success_text.configure(text=string)
+        global recent_death_string
+        recent_death_string = string
+        
+        success_text.configure(text=recent_death_string)
         success_text.update()
-        success_text.pack()
-        
-    death_file = "c://Source//python//DeathCounter//deathcount.txt"
-    death_count = get_death_count()
-    global additional_deaths
-    additional_deaths = 0
-
-        
-    #create function to display text when button calls it
-    def add_death(original_death_count):
+    
+    def add_death_to_file(death_count):
         global additional_deaths
+        global recent_death_string
         
-        #writes info to file
-        def submit_death():
+        #add invalid input label text
+        def update_invalid_input_label(string):
+            invalid_input_label.configure(text=string)
+            invalid_input_label.update()
             
-            def update_death_count_in_death_string(current_death_count):
-                return "Death %d: Killed by %s in %s on %s \n"%(current_death_count, death_reason.get(), death_location, death_time.strftime("%c"))
-
-            def successful_submit(current_death_count):
-                update_recent_death("Total Deaths: %d"%current_death_count)
-                death_string = update_death_count_in_death_string(current_death_count)
-                update_death_string_label("Added death:\n%s"%death_string)
-                global additional_deaths 
-                additional_deaths = additional_deaths + 1
+        #writes info to file when button is pressed
+        def submit_death(death_count):
+            global additional_deaths
             
+            def update_death_count_in_death_string(new_amount):
+                return "Death %d: Killed by %s in %s on %s \n"%(new_amount, death_reason.get(), death_location, death_time.strftime("%c"))
+            
+            def repeat_death():
+                return None
+            
+            #retrieve user submitted location and submission time
             death_location = location_list.get()
-            death_time = datetime.datetime.now()
+            death_time = datetime.now()      
             
+            #validate user input
             if (death_location == "Select a location" or death_reason.get() == ""):
-                invalid_message = Label(frame, text="Please enter valid reason and location")
-                invalid_message.pack()
-        
-            else:
-                global additional_deaths
-                new_death_count = death_count + 1 + additional_deaths
+                update_invalid_input_label("Please enter valid reason and location")
+
+            else:                
+                #additional_deaths starts at 0
+                death_count += additional_deaths
                 
-                death_string = update_death_count_in_death_string(new_death_count) 
+                death_string = update_death_count_in_death_string(death_count + 1) 
 
                 with open(death_file, 'a+') as file:
                     file.write(death_string)
                     
-                new_death_count = get_death_count()
-                if (new_death_count > original_death_count):
-                    successful_submit(new_death_count)
+                new_death_count = read_death_count_from_file()
+                if (new_death_count > death_count):
+                    additional_deaths += 1
+                    update_total_death_count_in_main("Total Deaths: %d"%new_death_count)
+                    death_string = update_death_count_in_death_string(new_death_count)
+                    update_death_string_label("Added death:\n%s"%death_string)
+                    
                 new_death_window.destroy()
         
+        #create new death window
         new_death_window = Toplevel()
-        new_death_window.title("Add Death")
+        new_death_window.title("Adding New Death")
         new_death_window.geometry('500x150')
         
         frame = Frame(new_death_window)
         frame.pack()
         
+        #create input box for death reason
         death_reason = Entry(frame, width=20)
-        death_reason.pack(padx=5, pady=5)
+        death_reason.pack(pady=10)
         
-        locations = ["Limgrave", "Stormfront Catacombs", "Gatefront Ruins", "Stormgate", "Stormhill", "Stormveil Castle"]
+        #array of locations
+        locations = ["Limgrave", "Stormfront Catacombs", "Gatefront Ruins", "Stormgate", "Stormhill", "Stormveil Castle", "Deathtouched Catacombs", "Summonwater Village", "Siofra River"]
         
+        #add array of locations to selectable list
         location_list = ttk.Combobox(frame, values = locations)
         location_list.set("Select a location")
         location_list.pack()
         
-        submit = Button(frame, text="Submit", command=submit_death)
-        submit.pack()
+        #create label instance placeholder for invalid input
+        invalid_input_label = Label(frame)
+        
+        #create button for submitting death information
+        add_new_death_button = Button(frame, text="Add", command=lambda:submit_death(death_count))
+        add_new_death_button.pack(pady=10, padx=10, expand="True")
+        invalid_input_label.pack(pady=10, padx=10, expand="True")
+        
+        if (additional_deaths != 0):
+            just_added = Label(frame, text="Just added: ")            
+            #repeat_recent_death = Button(frame, text="Repeat Last Death", command=repeat_death)
+            #repeat_recent_death.pack()    
+            
+
+    #main logic
+    death_file = "C://Source//python//DeathCounter//deathcount.txt"
+    death_count = read_death_count_from_file()
         
     #main window object
     main = Tk()
@@ -91,18 +114,17 @@ def popup():
     main.title("Death Counter")
     main.geometry('300x150')
     
-    original_death_count = get_death_count()
-    
-    count_message = Label(main, text="Total Deaths: %d"%original_death_count)
-    
-    success_text = Label(main, wraplength=250)
-    
-    count_message.pack(fill='x')
+    #display total death count on top
+    count_message = Label(main, text="Total Deaths: %d"%death_count)
+    count_message.pack(ipady=10)
 
-    #create button
-    add_death_button = Button(main, text='Add Death', compound=LEFT, command=lambda: add_death(original_death_count))
-    
+    #add button to middle of window
+    add_death_button = Button(main, text='Add Death', compound=LEFT, command=lambda:add_death_to_file(death_count)) 
     add_death_button.pack(ipadx=5, ipady=5, expand=True)
+
+    #instantiate label placeholder for recently added deaths area at bottom
+    success_text = Label(main, text="Go die a few more times", wraplength=250)
+    success_text.pack(ipady=10)
 
     main.mainloop()
     
