@@ -503,3 +503,83 @@ Death 502: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 2
 Death 503: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 22:01:12 2022 
 Death 504: Killed by Bird in Stormveil Castle on Tue Mar  8 22:04:52 2022 
 Death 505: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:07:37 2022 
+Death 506: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:14:38 2022 
+Death 507: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:16:55 2022 
+Death 508: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:19:19 2022 
+Death 509: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:21:22 2022 
+Death 510: Killed by Bird in Stormveil Castle on Tue Mar  8 22:22:09 2022 
+Death 511: Killed by Bird in Stormveil Castle on Tue Mar  8 22:22:58 2022 
+Death 512: Killed by Bird in Stormveil Castle on Tue Mar  8 22:34:31 2022 
+Death 513: Killed by Bird in Stormveil Castle on Tue Mar  8 22:39:46 2022 
+Death 514: Killed by Bird in Stormveil Castle on Tue Mar  8 22:40:58 2022 
+Death 515: Killed by Bird in Stormveil Castle on Tue Mar  8 22:42:01 2022 
+Death 516: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:44:16 2022 
+Death 517: Killed by Bird in Stormveil Castle on Tue Mar  8 22:45:37 2022 
+Death 518: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:47:42 2022 
+Death 519: Killed by Sentry in Stormveil Castle on Tue Mar  8 22:50:13 2022 
+Death 520: Killed by Bird in Stormveil Castle on Tue Mar  8 22:50:55 2022 
+Death 521: Killed by Bird in Stormveil Castle on Tue Mar  8 22:52:05 2022 
+Death 522: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:54:56 2022 
+Death 523: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:57:25 2022 
+Death 524: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:59:52 2022 
+Death 525: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:02:00 2022 
+Death 526: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:04:39 2022 
+Death 527: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:07:17 2022 
+Death 528: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:09:35 2022 
+Death 529: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:12:56 2022 
+Death 530: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:14:06 2022 
+Death 531: Killed by Bird in Stormveil Castle on Tue Mar  8 23:15:16 2022 
+Death 532: Killed by Axe Knight in Stormveil Castle on Tue Mar  8 23:20:16 2022 
+Death 533: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:22:46 2022 
+Death 534: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:25:09 2022 
+Death 535: Killed by Sentry in Stormveil Castle on Tue Mar  8 23:34:13 2022 
+Death 536: Killed by Cliff in Stormveil Castle on Tue Mar  8 23:46:43 2022 
+Death 537: Killed by Fall in Stormveil Castle on Tue Mar  8 23:49:22 2022 
+Death 538: Killed by Orange Knight in Stormveil Castle on Wed Mar  9 00:08:30 2022 
+Death 539: Killed by Cliff in Stormveil Castle on Wed Mar  9 00:13:25 2022 
+Death 540: Killed by Cliff in Limgrave on Thu Mar 10 08:17:47 2022 
+Death 541: Killed by Skeleton in Deathtouched Catacombs on Thu Mar 10 08:18:51 2022 
+Death 542: Killed by Pike Skeleton in Summonwater Village on Thu Mar 10 23:15:03 2022 
+Death 543: Killed by Giant in Limgrave on Fri Mar 11 08:07:20 2022 
+Death 544: Killed by Horse Glitch in Limgrave on Fri Mar 11 08:14:18 2022 
+Death 545: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:28:03 2022 
+Death 546: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:29:20 2022 
+Death 547: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:30:32 2022 
+Death 548: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:32:30 2022 
+Death 549: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:34:22 2022 
+Death 550: Killed by Big Crab in Siofra River on Fri Mar 11 08:45:42 2022 
+Death 551: Killed by Spirit Warrior in Siofra River on Fri Mar 11 08:58:55 2022 
+Death 552: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:34:18 2022 
+Death 553: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:34:26 2022 
+Death 554: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:34:38 2022 
+Death 555: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:37:24 2022 
+Death 556: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:52:48 2022 
+Death 557: Killed by Fall in Siofra River on Fri Mar 11 12:52:57 2022 
+Death 558: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:37:45 2022 
+Death 559: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:41:07 2022 
+Death 560: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:42:43 2022 
+Death 561: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:47:45 2022 
+Death 562: Killed by Crab in Siofra River on Fri Mar 11 14:04:52 2022 
+Death 563: Killed by Crab in Siofra River on Fri Mar 11 14:04:59 2022 
+Death 564: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:07:01 2022 
+Death 565: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:08:38 2022 
+Death 566: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:11:18 2022 
+Death 567: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:13:07 2022 
+Death 568: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:14:45 2022 
+Death 569: Killed by Spirit Archer in Siofra River on Fri Mar 11 14:29:49 2022 
+Death 570: Killed by Spirit Archer in Siofra River on Fri Mar 11 14:35:48 2022 
+Death 571: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:36:58 2022 
+Death 572: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:38:31 2022 
+Death 573: Killed by Fall in Siofra River on Fri Mar 11 14:49:46 2022 
+Death 574: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:58:00 2022 
+Death 575: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:58:06 2022 
+Death 576: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:59:54 2022 
+Death 577: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:18:26 2022 
+Death 578: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:22:42 2022 
+Death 579: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:27:49 2022 
+Death 580: Killed by Spirit Archer in Siofra River on Fri Mar 11 18:29:35 2022 
+Death 581: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:32:22 2022 
+Death 582: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:36:33 2022 
+Death 583: Killed by Spirit Archer in Siofra River on Fri Mar 11 18:39:28 2022 
+Death 584: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:41:41 2022 
+Death 585: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:42:49 2022
