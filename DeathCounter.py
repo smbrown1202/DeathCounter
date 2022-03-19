@@ -1,14 +1,12 @@
 from datetime import datetime
 from tkinter import ttk
 from tkinter import *
-from turtle import title
 
 #TODO
 #refactor using new death object
 #save file as array for easy retrieval and retrieve death count from it
 #repeat last death
 #selection of enemies, add enemy button
-
 
 def popup():
 
@@ -98,7 +96,6 @@ def popup():
                      "Black Knife Catacombs", "Bellum Highway", "Academy Crystal Cave", "Temple Quarter", "Road's End Catacombs",
                      "Ruin-Strewn Precipice", "Altus Plateau"]
 
-        
         #add array of locations to selectable list
         location_list = ttk.Combobox(frame, values = locations)
         location_list.set("Select a location")
