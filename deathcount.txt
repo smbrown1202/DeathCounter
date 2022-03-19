@@ -1,0 +1,812 @@
+Death 1: Killed by Cliff in Limgrave
+Death 2: Killed by Giant in Limgrave
+Death 3: Killed by Beach Ball in Limgrave
+Death 4: Killed by Tree Sentinel in Limgrave
+Death 5: Killed by Tree Sentinel in Limgrave
+Death 6: Killed by Tree Sentinel in Limgrave
+Death 7: Killed by Tree Sentinel in Limgrave
+Death 8: Killed by Tree Sentinel in Limgrave
+Death 9: Killed by Tree Sentinel in Limgrave
+Death 10: Killed by Tree Sentinel in Limgrave
+Death 11: Killed by Tree Sentinel in Limgrave
+Death 12: Killed by Tree Sentinel in Limgrave
+Death 13: Killed by Tree Sentinel in Limgrave
+Death 14: Killed by Tree Sentinel in Limgrave
+Death 15: Killed by Tree Sentinel in Limgrave
+Death 16: Killed by Tree Sentinel in Limgrave
+Death 17: Killed by Tree Sentinel in Limgrave
+Death 18: Killed by Tree Sentinel in Limgrave
+Death 19: Killed by Tree Sentinel in Limgrave
+Death 20: Killed by Tree Sentinel in Limgrave
+Death 21: Killed by Tree Sentinel in Limgrave
+Death 22: Killed by Tree Sentinel in Limgrave
+Death 23: Killed by Tree Sentinel in Limgrave
+Death 24: Killed by Tree Sentinel in Limgrave
+Death 25: Killed by Tree Sentinel in Limgrave
+Death 26: Killed by Tree Sentinel in Limgrave
+Death 27: Killed by Tree Sentinel in Limgrave
+Death 28: Killed by Tree Sentinel in Limgrave
+Death 29: Killed by Tree Sentinel in Limgrave
+Death 30: Killed by Tree Sentinel in Limgrave
+Death 31: Killed by Tree Sentinel in Limgrave
+Death 32 Killed by Tree Sentinel in Limgrave
+Death 33: Killed by Tree Sentinel in Limgrave
+Death 34: Killed by Tree Sentinel in Limgrave
+Death 35: Killed by Tree Sentinel in Limgrave
+Death 36: Killed by Tree Sentinel in Limgrave
+Death 37: Killed by Tree Sentinel in Limgrave
+Death 38: Killed by Tree Sentinel in Limgrave
+Death 39: Killed by Tree Sentinel in Limgrave
+Death 40: Killed by Tree Sentinel in Limgrave
+Death 41: Killed by Tree Sentinel in Limgrave
+Death 42: Killed by Tree Sentinel in Limgrave
+Death 43: Killed by Tree Sentinel in Limgrave
+Death 44: Killed by Tree Sentinel in Limgrave
+Death 45: Killed by Tree Sentinel in Limgrave
+Death 46: Killed by Tree Sentinel in Limgrave
+Death 47: Killed by Tree Sentinel in Limgrave
+Death 48: Killed by Tree Sentinel in Limgrave
+Death 49: Killed by Tree Sentinel in Limgrave
+Death 50: Killed by Tree Sentinel in Limgrave
+Death 51: Killed by Tree Sentinel in Limgrave
+Death 52: Killed by Tree Sentinel in Limgrave
+Death 53: Killed by Tree Sentinel in Limgrave
+Death 54: Killed by Tree Sentinel in Limgrave
+Death 55: Killed by Tree Sentinel in Limgrave
+Death 56: Killed by Tree Sentinel in Limgrave
+Death 57: Killed by Tree Sentinel in Limgrave
+Death 58: Killed by Tree Sentinel in Limgrave
+Death 59: Killed by Tree Sentinel in Limgrave
+Death 50: Killed by Tree Sentinel in Limgrave
+Death 61: Killed by Tree Sentinel in Limgrave
+Death 62: Killed by Tree Sentinel in Limgrave
+Death 63: Killed by Tree Sentinel in Limgrave
+Death 64: Killed by Tree Sentinel in Limgrave
+Death 65: Killed by Tree Sentinel in Limgrave
+Death 66: Killed by Tree Sentinel in Limgrave
+Death 67: Killed by Tree Sentinel in Limgrave
+Death 68: Killed by Tree Sentinel in Limgrave
+Death 69: Killed by Tree Sentinel in Limgrave
+Death 70: Killed by Tree Sentinel in Limgrave
+Death 71: Killed by Tree Sentinel in Limgrave
+Death 72: Killed by Tree Sentinel in Limgrave
+Death 73: Killed by Tree Sentinel in Limgrave
+Death 74: Killed by Tree Sentinel in Limgrave
+Death 75: Killed by Tree Sentinel in Limgrave
+Death 76: Killed by Tree Sentinel in Limgrave
+Death 77: Killed by Tree Sentinel in Limgrave
+Death 78: Killed by Tree Sentinel in Limgrave
+Death 79: Killed by Tree Sentinel in Limgrave
+Death 80: Killed by Tree Sentinel in Limgrave
+Death 81: Killed by Tree Sentinel in Limgrave
+Death 82: Killed by Tree Sentinel in Limgrave
+Death 83: Killed by Tree Sentinel in Limgrave
+Death 84: Killed by Tree Sentinel in Limgrave
+Death 85: Killed by Tree Sentinel in Limgrave
+Death 86: Killed by Tree Sentinel in Limgrave
+Death 87: Killed by Tree Sentinel in Limgrave
+Death 88: Killed by Tree Sentinel in Limgrave
+Death 89: Killed by Tree Sentinel in Limgrave
+Death 90: Killed by Tree Sentinel in Limgrave
+Death 91: Killed by Tree Sentinel in Limgrave
+Death 92: Killed by Tree Sentinel in Limgrave
+Death 93: Killed by Tree Sentinel in Limgrave
+Death 94: Killed by Tree Sentinel in Limgrave
+Death 95: Killed by Tree Sentinel in Limgrave
+Death 96: Killed by Tree Sentinel in Limgrave
+Death 97: Killed by Tree Sentinel in Limgrave
+Death 98: Killed by Tree Sentinel in Limgrave
+Death 99: Killed by Tree Sentinel in Limgrave
+Death 100: Killed by Tree Sentinel in Limgrave
+Death 101: Killed by Tree Sentinel in Limgrave
+Death 102: Killed by Tree Sentinel in Limgrave
+Death 103: Killed by Tree Sentinel in Limgrave
+Death 104: Killed by Tree Sentinel in Limgrave
+Death 105: Killed by Tree Sentinel in Limgrave
+Death 105: Killed by Tree Sentinel in Limgrave
+Death 107: Killed by Tree Sentinel in Limgrave
+Death 108: Killed by Tree Sentinel in Limgrave
+Death 109: Killed by Tree Sentinel in Limgrave
+Death 110: Killed by Tree Sentinel in Limgrave
+Death 111: Killed by Tree Sentinel in Limgrave
+Death 112: Killed by Tree Sentinel in Limgrave
+Death 113: Killed by Tree Sentinel in Limgrave
+Death 114: Killed by Tree Sentinel in Limgrave
+Death 115: Killed by Tree Sentinel in Limgrave
+Death 116: Killed by Tree Sentinel in Limgrave
+Death 117: Killed by gargoyle things in Stormfoot Catacombs
+Death 118: Killed by gargoyle things in Stormfoot Catacombs
+Death 119: Killed by gargoyle things in Stormfoot Catacombs
+Death 120: Killed by gargoyle things in Stormfoot Catacombs
+Death 121: Killed by gargoyle things in Stormfoot Catacombs
+Death 122: Killed by gargoyle things in Stormfoot Catacombs
+Death 123: Killed by gargoyle things in Stormfoot Catacombs
+Death 124: Killed by fire in Stormfoot Catacombs
+Death 125: Killed by Erdtree Burial Watchdog in Stormfoot Catacombs
+Death 126: Killed by Erdtree Burial Watchdog in Stormfoot Catacombs
+Death 127: Killed by Erdtree Burial Watchdog in Stormfoot Catacombs
+Death 128: Killed by Erdtree Burial Watchdog in Stormfoot Catacombs
+Death 129: Killed by Erdtree Burial Watchdog in Stormfoot Catacombs
+Death 130: Killed by Torch in Limgrave
+Death 131: Killed by Heavy Knight in Gatefront Ruins on Tue Mar  1 23:24:17 2022 
+Death 132: Killed by Heavy Knight in Gatefront Ruins on Tue Mar  1 23:30:07 2022 
+Death 133: Killed by Heavy Knight in Gatefront Ruins on Tue Mar  1 23:30:20 2022 
+Death 134: Killed by Heavy Knight in Gatefront Ruins on Tue Mar  1 23:43:49 2022 
+Death 135: Killed by Heavy Knight in Gatefront Ruins on Tue Mar  1 23:47:12 2022 
+Death 136: Killed by Heavy Knight in Gatefront Ruins on Tue Mar  1 23:55:23 2022 
+Death 137: Killed by Heavy Knight in Gatefront Ruins on Tue Mar  1 23:59:03 2022 
+Death 138: Killed by Heavy Knight in Gatefront Ruins on Wed Mar  2 00:06:44 2022 
+Death 139: Killed by Chest Guarding Knight in Gatefront Ruins on Wed Mar  2 00:14:22 2022 
+Death 140: Killed by Horse Knight in Limgrave on Wed Mar  2 00:40:59 2022 
+Death 141: Killed by Night Reaver? Boss in Limgrave on Wed Mar  2 00:41:11 2022 
+Death 142: Killed by Horse Rider in Limgrave on Wed Mar  2 00:48:28 2022 
+Death 143: Killed by Horse Rider in Limgrave on Wed Mar  2 00:52:40 2022 
+Death 144: Killed by Horse Rider in Limgrave on Wed Mar  2 14:14:57 2022 
+Death 145: Killed by Giant in Stormgate on Wed Mar  2 21:55:05 2022 
+Death 146: Killed by Giant in Stormgate on Wed Mar  2 21:57:05 2022
+Death 147: Killed by Knight in Stormhill on Thu Mar  3 07:48:45 2022 
+Death 148: Killed by Fire Arrow in Stormhill on Thu Mar  3 07:56:55 2022 
+Death 149: Killed by Knight in Stormhill on Thu Mar  3 07:58:08 2022 
+Death 150: Killed by Knight in Stormhill on Thu Mar  3 08:03:58 2022 
+Death 151: Killed by Margit in Stormveil Castle on Thu Mar  3 08:15:53 2022 
+Death 152: Killed by Margit in Stormveil Castle on Thu Mar  3 08:16:58 2022 
+Death 153: Killed by Margit in Stormveil Castle on Thu Mar  3 08:18:01 2022 
+Death 154: Killed by Margit in Stormveil Castle on Thu Mar  3 08:20:58 2022 
+Death 155: Killed by Cliff in Stormhill on Thu Mar  3 08:21:45 2022 
+Death 156: Killed by Margit in Stormveil Castle on Thu Mar  3 08:23:11 2022 
+Death 157: Killed by Margit in Stormveil Castle on Thu Mar  3 08:24:18 2022 
+Death 158: Killed by Cliff in Stormhill on Thu Mar  3 08:24:49 2022 
+Death 159: Killed by Margit in Stormveil Castle on Thu Mar  3 08:27:07 2022 
+Death 160: Killed by Margit in Stormveil Castle on Thu Mar  3 08:27:44 2022 
+Death 161: Killed by Margit in Stormveil Castle on Thu Mar  3 08:29:57 2022 
+Death 162: Killed by Margit in Stormveil Castle on Thu Mar  3 08:31:31 2022 
+Death 163: Killed by Margit in Stormveil Castle on Thu Mar  3 08:33:00 2022 
+Death 164: Killed by Margit in Stormveil Castle on Thu Mar  3 08:35:01 2022 
+Death 165: Killed by Margit in Stormveil Castle on Thu Mar  3 08:36:04 2022 
+Death 166: Killed by Margit in Stormveil Castle on Thu Mar  3 08:37:21 2022 
+Death 167: Killed by Margit in Stormveil Castle on Thu Mar  3 08:38:31 2022 
+Death 168: Killed by Margit in Stormveil Castle on Thu Mar  3 08:39:27 2022 
+Death 169: Killed by Margit in Stormveil Castle on Thu Mar  3 08:41:21 2022 
+Death 170: Killed by Margit in Stormveil Castle on Thu Mar  3 08:42:40 2022 
+Death 171: Killed by Margit in Stormveil Castle on Thu Mar  3 08:44:20 2022 
+Death 172: Killed by Margit in Stormveil Castle on Thu Mar  3 08:45:41 2022 
+Death 173: Killed by Margit in Stormveil Castle on Thu Mar  3 08:47:01 2022 
+Death 174: Killed by Margit in Stormveil Castle on Thu Mar  3 08:48:40 2022 
+Death 175: Killed by Margit in Stormveil Castle on Thu Mar  3 08:49:29 2022 
+Death 176: Killed by Margit in Stormveil Castle on Thu Mar  3 08:50:56 2022 
+Death 177: Killed by Margit in Stormveil Castle on Thu Mar  3 08:52:34 2022 
+Death 178: Killed by Margit in Stormveil Castle on Thu Mar  3 08:55:06 2022 
+Death 179: Killed by Margit in Stormveil Castle on Thu Mar  3 08:55:51 2022 
+Death 180: Killed by Margit in Stormveil Castle on Thu Mar  3 08:57:01 2022 
+Death 181: Killed by Margit in Stormveil Castle on Thu Mar  3 08:59:33 2022 
+Death 182: Killed by Margit in Stormveil Castle on Thu Mar  3 12:27:52 2022 
+Death 183: Killed by Margit in Stormveil Castle on Thu Mar  3 12:28:48 2022 
+Death 184: Killed by Margit in Stormveil Castle on Thu Mar  3 12:30:15 2022 
+Death 185: Killed by Margit in Stormveil Castle on Thu Mar  3 12:31:34 2022 
+Death 186: Killed by Margit in Stormveil Castle on Thu Mar  3 12:42:16 2022 
+Death 187: Killed by Margit in Stormveil Castle on Thu Mar  3 12:43:40 2022 
+Death 188: Killed by Margit in Stormveil Castle on Thu Mar  3 12:48:41 2022 
+Death 189: Killed by Margit in Stormveil Castle on Thu Mar  3 12:50:16 2022 
+Death 190: Killed by Margit in Stormveil Castle on Thu Mar  3 12:51:00 2022 
+Death 191: Killed by Margit in Stormveil Castle on Thu Mar  3 12:52:55 2022 
+Death 192: Killed by Margit in Stormveil Castle on Thu Mar  3 12:54:23 2022 
+Death 193: Killed by Margit in Stormveil Castle on Thu Mar  3 12:57:16 2022 
+Death 194: Killed by Margit in Stormveil Castle on Thu Mar  3 16:56:46 2022 
+Death 195: Killed by Margit in Stormveil Castle on Thu Mar  3 16:57:54 2022 
+Death 196: Killed by Margit in Stormveil Castle on Thu Mar  3 16:59:00 2022 
+Death 197: Killed by Margit in Stormveil Castle on Thu Mar  3 17:00:14 2022 
+Death 198: Killed by Margit in Stormveil Castle on Thu Mar  3 17:02:08 2022 
+Death 199: Killed by Margit in Stormveil Castle on Thu Mar  3 17:03:47 2022 
+Death 200: Killed by Margit in Stormveil Castle on Thu Mar  3 17:04:52 2022 
+Death 201: Killed by Margit in Stormveil Castle on Thu Mar  3 17:06:33 2022 
+Death 202: Killed by Margit in Stormveil Castle on Thu Mar  3 17:08:05 2022 
+Death 203: Killed by Margit in Stormveil Castle on Thu Mar  3 17:09:03 2022 
+Death 204: Killed by Margit in Stormveil Castle on Thu Mar  3 17:10:16 2022 
+Death 205: Killed by Margit in Stormveil Castle on Thu Mar  3 17:11:48 2022 
+Death 206: Killed by Margit in Stormveil Castle on Thu Mar  3 17:13:07 2022 
+Death 207: Killed by Margit in Stormveil Castle on Thu Mar  3 17:14:13 2022 
+Death 208: Killed by Margit in Stormveil Castle on Thu Mar  3 17:15:09 2022 
+Death 209: Killed by Margit in Stormveil Castle on Thu Mar  3 17:16:50 2022 
+Death 210: Killed by Margit in Stormveil Castle on Thu Mar  3 17:19:28 2022 
+Death 211: Killed by Margit in Stormveil Castle on Thu Mar  3 17:21:03 2022 
+Death 212: Killed by Margit in Stormveil Castle on Thu Mar  3 17:22:05 2022 
+Death 213: Killed by Margit in Stormveil Castle on Thu Mar  3 17:23:02 2022 
+Death 214: Killed by Margit in Stormveil Castle on Thu Mar  3 17:24:10 2022 
+Death 215: Killed by Margit in Stormveil Castle on Thu Mar  3 17:26:09 2022 
+Death 216: Killed by Margit in Stormveil Castle on Thu Mar  3 17:27:59 2022 
+Death 217: Killed by Margit in Stormveil Castle on Thu Mar  3 17:29:25 2022 
+Death 218: Killed by Margit in Stormveil Castle on Thu Mar  3 17:31:59 2022 
+Death 219: Killed by Margit in Stormveil Castle on Thu Mar  3 17:33:57 2022 
+Death 220: Killed by Margit in Stormveil Castle on Thu Mar  3 17:35:45 2022 
+Death 221: Killed by Margit in Stormveil Castle on Thu Mar  3 17:37:52 2022 
+Death 222: Killed by Margit in Stormveil Castle on Thu Mar  3 17:39:36 2022 
+Death 223: Killed by Margit in Stormveil Castle on Thu Mar  3 17:41:56 2022 
+Death 224: Killed by Margit in Stormveil Castle on Thu Mar  3 17:43:00 2022 
+Death 225: Killed by Margit in Stormveil Castle on Thu Mar  3 17:44:46 2022 
+Death 226: Killed by Margit in Stormveil Castle on Thu Mar  3 17:46:22 2022 
+Death 227: Killed by Margit in Stormveil Castle on Thu Mar  3 17:47:55 2022 
+Death 228: Killed by Margit in Stormveil Castle on Thu Mar  3 17:49:14 2022 
+Death 229: Killed by Margit in Stormveil Castle on Thu Mar  3 17:50:15 2022 
+Death 230: Killed by Margit in Stormveil Castle on Thu Mar  3 17:51:37 2022 
+Death 231: Killed by Margit in Stormveil Castle on Thu Mar  3 18:20:39 2022 
+Death 232: Killed by Margit in Stormveil Castle on Thu Mar  3 18:23:42 2022 
+Death 233: Killed by Margit in Stormveil Castle on Thu Mar  3 18:25:02 2022 
+Death 234: Killed by Margit in Stormveil Castle on Thu Mar  3 18:26:20 2022 
+Death 235: Killed by Margit in Stormveil Castle on Thu Mar  3 18:28:02 2022 
+Death 236: Killed by Margit in Stormveil Castle on Thu Mar  3 18:29:38 2022 
+Death 237: Killed by Margit in Stormveil Castle on Thu Mar  3 18:31:08 2022 
+Death 238: Killed by Margit in Stormveil Castle on Thu Mar  3 18:36:42 2022 
+Death 239: Killed by Margit in Stormveil Castle on Thu Mar  3 18:38:00 2022 
+Death 240: Killed by Margit in Stormveil Castle on Thu Mar  3 18:38:59 2022 
+Death 241: Killed by Margit in Stormveil Castle on Thu Mar  3 18:40:25 2022 
+Death 242: Killed by Margit in Stormveil Castle on Thu Mar  3 18:44:52 2022 
+Death 243: Killed by Margit in Stormveil Castle on Thu Mar  3 18:45:44 2022 
+Death 244: Killed by Margit in Stormveil Castle on Thu Mar  3 18:46:38 2022 
+Death 245: Killed by Margit in Stormveil Castle on Thu Mar  3 18:48:10 2022 
+Death 246: Killed by Margit in Stormveil Castle on Thu Mar  3 18:50:47 2022 
+Death 247: Killed by Margit in Stormveil Castle on Thu Mar  3 18:51:45 2022 
+Death 248: Killed by Margit in Stormveil Castle on Thu Mar  3 18:53:06 2022 
+Death 249: Killed by Margit in Stormveil Castle on Thu Mar  3 18:54:20 2022 
+Death 250: Killed by Margit in Stormveil Castle on Thu Mar  3 18:56:09 2022 
+Death 251: Killed by Margit in Stormveil Castle on Thu Mar  3 18:57:45 2022 
+Death 252: Killed by Margit in Stormveil Castle on Thu Mar  3 18:59:14 2022 
+Death 253: Killed by Margit in Stormveil Castle on Thu Mar  3 18:59:32 2022 
+Death 254: Killed by Margit in Stormveil Castle on Thu Mar  3 19:02:06 2022 
+Death 255: Killed by Margit in Stormveil Castle on Thu Mar  3 19:03:40 2022 
+Death 256: Killed by Margit in Stormveil Castle on Thu Mar  3 19:05:38 2022 
+Death 257: Killed by Margit in Stormveil Castle on Thu Mar  3 19:06:49 2022 
+Death 258: Killed by Margit in Stormveil Castle on Thu Mar  3 19:08:34 2022 
+Death 259: Killed by Margit in Stormveil Castle on Thu Mar  3 19:10:15 2022 
+Death 260: Killed by Margit in Stormveil Castle on Thu Mar  3 19:11:31 2022 
+Death 261: Killed by Cliff in Stormhill on Thu Mar  3 19:12:46 2022 
+Death 262: Killed by Margit in Stormveil Castle on Thu Mar  3 19:14:07 2022 
+Death 263: Killed by Margit in Stormveil Castle on Thu Mar  3 19:15:32 2022 
+Death 264: Killed by Margit in Stormveil Castle on Thu Mar  3 19:16:55 2022 
+Death 265: Killed by Margit in Stormveil Castle on Thu Mar  3 19:18:08 2022 
+Death 266: Killed by Margit in Stormveil Castle on Thu Mar  3 19:20:10 2022 
+Death 267: Killed by Margit in Stormveil Castle on Thu Mar  3 19:21:48 2022 
+Death 268: Killed by Margit in Stormveil Castle on Thu Mar  3 19:22:57 2022 
+Death 269: Killed by Margit in Stormveil Castle on Thu Mar  3 19:24:18 2022 
+Death 270: Killed by Margit in Stormveil Castle on Thu Mar  3 19:25:39 2022 
+Death 271: Killed by Margit in Stormveil Castle on Thu Mar  3 19:26:50 2022 
+Death 272: Killed by Margit in Stormveil Castle on Thu Mar  3 19:28:33 2022 
+Death 273: Killed by Margit in Stormveil Castle on Thu Mar  3 19:29:56 2022 
+Death 274: Killed by Margit in Stormveil Castle on Thu Mar  3 19:31:05 2022 
+Death 275: Killed by Margit in Stormveil Castle on Thu Mar  3 19:33:08 2022 
+Death 276: Killed by Margit in Stormveil Castle on Thu Mar  3 19:34:10 2022 
+Death 277: Killed by Margit in Stormveil Castle on Thu Mar  3 19:35:25 2022 
+Death 278: Killed by Margit in Stormveil Castle on Thu Mar  3 19:37:01 2022 
+Death 279: Killed by Margit in Stormveil Castle on Thu Mar  3 19:38:07 2022 
+Death 280: Killed by Margit in Stormveil Castle on Thu Mar  3 19:39:19 2022 
+Death 281: Killed by Margit in Stormveil Castle on Thu Mar  3 19:40:00 2022 
+Death 282: Killed by Margit in Stormveil Castle on Thu Mar  3 19:41:04 2022 
+Death 283: Killed by Margit in Stormveil Castle on Thu Mar  3 19:42:17 2022 
+Death 284: Killed by Margit in Stormveil Castle on Thu Mar  3 19:43:36 2022 
+Death 285: Killed by Margit in Stormveil Castle on Thu Mar  3 19:44:23 2022 
+Death 286: Killed by Margit in Stormveil Castle on Thu Mar  3 19:46:02 2022 
+Death 287: Killed by Margit in Stormveil Castle on Thu Mar  3 19:47:44 2022 
+Death 288: Killed by Margit in Stormveil Castle on Thu Mar  3 19:48:42 2022 
+Death 289: Killed by Margit in Stormveil Castle on Thu Mar  3 19:50:51 2022 
+Death 290: Killed by Margit in Stormveil Castle on Thu Mar  3 19:53:08 2022 
+Death 291: Killed by Margit in Stormveil Castle on Thu Mar  3 19:54:56 2022 
+Death 292: Killed by Margit in Stormveil Castle on Thu Mar  3 19:56:56 2022 
+Death 293: Killed by Margit in Stormveil Castle on Thu Mar  3 19:58:04 2022 
+Death 294: Killed by Margit in Stormveil Castle on Thu Mar  3 20:00:41 2022 
+Death 295: Killed by Margit in Stormveil Castle on Fri Mar  4 07:13:26 2022 
+Death 296: Killed by Margit in Stormveil Castle on Fri Mar  4 07:14:58 2022 
+Death 297: Killed by Margit in Stormveil Castle on Fri Mar  4 07:17:23 2022 
+Death 298: Killed by Margit in Stormveil Castle on Fri Mar  4 07:18:36 2022 
+Death 299: Killed by Margit in Stormveil Castle on Fri Mar  4 07:20:54 2022 
+Death 300: Killed by Margit in Stormveil Castle on Fri Mar  4 07:25:22 2022 
+Death 301: Killed by Margit in Stormveil Castle on Fri Mar  4 07:26:15 2022 
+Death 302: Killed by Margit in Stormveil Castle on Fri Mar  4 07:27:11 2022 
+Death 303: Killed by Cliff in Stormveil Castle on Fri Mar  4 07:27:55 2022 
+Death 304: Killed by Margit in Stormveil Castle on Fri Mar  4 07:29:57 2022 
+Death 305: Killed by Margit in Stormveil Castle on Fri Mar  4 07:32:02 2022 
+Death 306: Killed by Margit in Stormveil Castle on Fri Mar  4 07:32:42 2022 
+Death 307: Killed by Margit in Stormveil Castle on Fri Mar  4 07:34:21 2022 
+Death 308: Killed by Margit in Stormveil Castle on Fri Mar  4 07:36:28 2022 
+Death 309: Killed by Margit in Stormveil Castle on Fri Mar  4 07:39:17 2022 
+Death 310: Killed by Margit in Stormveil Castle on Fri Mar  4 07:42:02 2022 
+Death 311: Killed by Margit in Stormveil Castle on Fri Mar  4 07:43:42 2022 
+Death 312: Killed by Margit in Stormveil Castle on Fri Mar  4 07:47:00 2022 
+Death 313: Killed by Margit in Stormveil Castle on Fri Mar  4 07:50:04 2022 
+Death 314: Killed by Margit in Stormveil Castle on Fri Mar  4 07:51:12 2022 
+Death 315: Killed by Margit in Stormveil Castle on Fri Mar  4 07:52:53 2022 
+Death 316: Killed by Margit in Stormveil Castle on Fri Mar  4 07:54:23 2022 
+Death 317: Killed by Margit in Stormveil Castle on Fri Mar  4 08:00:28 2022 
+Death 318: Killed by Margit in Stormveil Castle on Fri Mar  4 08:06:48 2022 
+Death 319: Killed by Margit in Stormveil Castle on Fri Mar  4 08:07:25 2022 
+Death 320: Killed by Margit in Stormveil Castle on Fri Mar  4 08:08:22 2022 
+Death 321: Killed by Margit in Stormveil Castle on Fri Mar  4 08:10:19 2022 
+Death 322: Killed by Margit in Stormveil Castle on Fri Mar  4 08:11:30 2022 
+Death 323: Killed by Margit in Stormveil Castle on Fri Mar  4 08:13:38 2022 
+Death 324: Killed by Margit in Stormveil Castle on Fri Mar  4 08:15:37 2022 
+Death 325: Killed by Margit in Stormveil Castle on Fri Mar  4 08:16:08 2022 
+Death 326: Killed by Margit in Stormveil Castle on Fri Mar  4 08:17:38 2022 
+Death 327: Killed by Margit in Stormveil Castle on Fri Mar  4 08:19:14 2022 
+Death 328: Killed by Margit in Stormveil Castle on Fri Mar  4 08:20:46 2022 
+Death 329: Killed by Margit in Stormveil Castle on Fri Mar  4 08:22:33 2022 
+Death 330: Killed by Margit in Stormveil Castle on Fri Mar  4 08:26:00 2022 
+Death 331: Killed by Margit in Stormveil Castle on Fri Mar  4 08:27:27 2022 
+Death 332: Killed by Margit in Stormveil Castle on Fri Mar  4 08:30:35 2022 
+Death 333: Killed by Margit in Stormveil Castle on Fri Mar  4 08:33:52 2022 
+Death 334: Killed by Margit in Stormveil Castle on Fri Mar  4 08:38:05 2022 
+Death 335: Killed by Margit in Stormveil Castle on Fri Mar  4 08:39:35 2022 
+Death 336: Killed by Margit in Stormveil Castle on Fri Mar  4 08:41:16 2022 
+Death 337: Killed by Margit in Stormveil Castle on Fri Mar  4 08:42:48 2022 
+Death 338: Killed by Margit in Stormveil Castle on Fri Mar  4 08:44:50 2022 
+Death 339: Killed by Margit in Stormveil Castle on Fri Mar  4 08:47:01 2022 
+Death 340: Killed by Margit in Stormveil Castle on Fri Mar  4 08:50:21 2022 
+Death 341: Killed by Margit in Stormveil Castle on Fri Mar  4 08:52:52 2022 
+Death 342: Killed by Margit in Stormveil Castle on Fri Mar  4 08:54:31 2022 
+Death 343: Killed by Margit in Stormveil Castle on Fri Mar  4 08:58:31 2022 
+Death 344: Killed by Margit in Stormveil Castle on Fri Mar  4 09:01:11 2022 
+Death 345: Killed by Margit in Stormveil Castle on Fri Mar  4 09:03:29 2022 
+Death 346: Killed by Margit in Stormveil Castle on Fri Mar  4 09:05:41 2022 
+Death 347: Killed by Margit in Stormveil Castle on Fri Mar  4 09:08:08 2022 
+Death 348: Killed by Margit in Stormveil Castle on Fri Mar  4 09:09:59 2022 
+Death 349: Killed by Margit in Stormveil Castle on Fri Mar  4 09:12:46 2022 
+Death 350: Killed by Margit in Stormveil Castle on Fri Mar  4 09:16:10 2022 
+Death 351: Killed by Margit in Stormveil Castle on Fri Mar  4 09:21:56 2022 
+Death 352: Killed by Margit in Stormveil Castle on Fri Mar  4 09:24:30 2022 
+Death 353: Killed by Margit in Stormveil Castle on Fri Mar  4 09:26:54 2022 
+Death 354: Killed by Margit in Stormveil Castle on Fri Mar  4 09:53:11 2022 
+Death 355: Killed by Margit in Stormveil Castle on Fri Mar  4 09:53:12 2022 
+Death 356: Killed by Margit in Stormveil Castle on Fri Mar  4 09:54:09 2022 
+Death 357: Killed by Margit in Stormveil Castle on Fri Mar  4 09:56:49 2022 
+Death 358: Killed by Sentry in Stormveil Castle on Fri Mar  4 12:47:57 2022 
+Death 359: Killed by Black and Silver Knight in Stormveil Castle on Fri Mar  4 12:59:26 2022
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 07:38:58 2022 
+Death 360: Killed by Fire Bomb in Stormveil Castle on Mon Mar  7 07:41:07 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 07:42:14 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 07:42:54 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 07:48:06 2022 
+Death 360: Killed by Fire Bomb in Stormveil Castle on Mon Mar  7 07:51:07 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 07:54:20 2022 
+Death 360: Killed by Fire Bomb in Stormveil Castle on Mon Mar  7 07:57:39 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:01:29 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 08:02:18 2022 
+Death 360: Killed by Cliff in Stormveil Castle on Mon Mar  7 08:02:47 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:05:45 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:07:47 2022 
+Death 360: Killed by Fire Bomb in Stormveil Castle on Mon Mar  7 08:09:26 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 08:10:05 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:12:15 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:16:29 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:22:14 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 08:23:18 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:27:01 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 08:29:48 2022 
+Death 360: Killed by Axe Knight in Stormveil Castle on Mon Mar  7 08:42:18 2022 
+Death 360: Killed by Axe Knight in Stormveil Castle on Mon Mar  7 08:45:20 2022 
+Death 360: Killed by Cliff in Stormveil Castle on Mon Mar  7 08:52:23 2022 
+Death 360: Killed by Axe Knight in Stormveil Castle on Mon Mar  7 08:55:28 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 08:58:17 2022 
+Death 360: Killed by Knife Bird in Stormveil Castle on Mon Mar  7 09:15:27 2022 
+Death 360: Killed by Knife Bird in Stormveil Castle on Mon Mar  7 09:15:39 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 09:22:54 2022 
+Death 360: Killed by Controller in Stormveil Castle on Mon Mar  7 09:44:02 2022 
+Death 360: Killed by Sentry in Stormveil Castle on Mon Mar  7 09:46:25 2022 
+Death 360: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 09:54:04 2022 
+Death 360: Killed by Cliff in Stormveil Castle on Mon Mar  7 09:56:27 2022 
+Death 360: Killed by Orange Knight in Stormveil Castle on Mon Mar  7 10:00:27 2022 
+Death 360: Killed by Orange Knight in Stormveil Castle on Mon Mar  7 10:04:12 2022 
+Death 360: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 10:22:04 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 10:24:34 2022 
+Death 360: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 10:29:10 2022 
+Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:32:09 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 10:39:11 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 10:41:26 2022 
+Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:42:19 2022 
+Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:43:07 2022 
+Death 360: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 10:46:50 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 10:49:43 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 10:53:05 2022 
+Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:54:33 2022 
+Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:55:34 2022 
+Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 10:56:46 2022 
+Death 360: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 10:59:29 2022 
+Death 360: Killed by Bird in Stormveil Castle on Mon Mar  7 11:00:05 2022 
+Death 411: Killed by Bird in Stormveil Castle on Mon Mar  7 11:28:27 2022 
+Death 412: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:28:35 2022 
+Death 413: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:30:41 2022 
+Death 414: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:33:05 2022 
+Death 415: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:35:39 2022 
+Death 416: Killed by Bird in Stormveil Castle on Mon Mar  7 11:37:10 2022 
+Death 417: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 11:43:24 2022 
+Death 418: Killed by Bird in Stormveil Castle on Mon Mar  7 11:44:35 2022 
+Death 419: Killed by Bird in Stormveil Castle on Mon Mar  7 11:45:41 2022 
+Death 420: Killed by Bird in Stormveil Castle on Mon Mar  7 11:46:29 2022 
+Death 421: Killed by Bird in Stormveil Castle on Mon Mar  7 11:47:47 2022 
+Death 422: Killed by Bird in Stormveil Castle on Mon Mar  7 11:48:39 2022 
+Death 423: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:51:16 2022 
+Death 424: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:53:50 2022 
+Death 425: Killed by Bird in Stormveil Castle on Mon Mar  7 11:54:51 2022 
+Death 426: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 11:57:22 2022 
+Death 427: Killed by Bird in Stormveil Castle on Mon Mar  7 11:58:22 2022 
+Death 428: Killed by Bird in Stormveil Castle on Mon Mar  7 11:59:21 2022 
+Death 429: Killed by Bird in Stormveil Castle on Mon Mar  7 12:01:17 2022 
+Death 430: Killed by Bird in Stormveil Castle on Mon Mar  7 12:02:07 2022 
+Death 431: Killed by Cliff in Stormveil Castle on Mon Mar  7 12:04:36 2022 
+Death 432: Killed by Bird in Stormveil Castle on Mon Mar  7 12:05:50 2022 
+Death 433: Killed by Bird in Stormveil Castle on Mon Mar  7 12:06:30 2022 
+Death 434: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:08:40 2022 
+Death 435: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:10:42 2022 
+Death 436: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:13:45 2022 
+Death 437: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 12:18:03 2022 
+Death 438: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:20:24 2022 
+Death 439: Killed by Bird in Stormveil Castle on Mon Mar  7 12:21:27 2022 
+Death 440: Killed by Sword Arms in Stormveil Castle on Mon Mar  7 12:26:54 2022 
+Death 441: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:29:41 2022 
+Death 442: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:32:33 2022 
+Death 443: Killed by Bird in Stormveil Castle on Mon Mar  7 12:33:16 2022 
+Death 444: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:36:19 2022 
+Death 445: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:38:01 2022 
+Death 446: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:40:26 2022 
+Death 447: Killed by Bird in Stormveil Castle on Mon Mar  7 12:41:30 2022 
+Death 448: Killed by Bird in Stormveil Castle on Mon Mar  7 12:42:35 2022 
+Death 449: Killed by Bird in Stormveil Castle on Mon Mar  7 12:43:31 2022 
+Death 450: Killed by Bird in Stormveil Castle on Mon Mar  7 12:45:06 2022 
+Death 451: Killed by Bird in Stormveil Castle on Mon Mar  7 12:45:55 2022 
+Death 452: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 12:48:42 2022 
+Death 453: Killed by Black and Silver in Stormveil Castle on Mon Mar  7 12:53:32 2022 
+Death 454: Killed by Dead Guy in Stormveil Castle on Mon Mar  7 12:56:31 2022 
+Death 455: Killed by Cliff in Stormveil Castle on Mon Mar  7 12:58:52 2022 
+Death 456: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:41:21 2022 
+Death 457: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:44:15 2022 
+Death 458: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:47:00 2022 
+Death 459: Killed by Cliff in Stormveil Castle on Mon Mar  7 15:47:44 2022 
+Death 460: Killed by Bird in Stormveil Castle on Mon Mar  7 15:48:57 2022 
+Death 461: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:50:57 2022 
+Death 462: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:53:22 2022 
+Death 463: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 15:56:51 2022 
+Death 464: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:00:15 2022 
+Death 465: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:03:52 2022 
+Death 466: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:06:50 2022 
+Death 467: Killed by Sentry in Stormveil Castle on Mon Mar  7 16:09:16 2022 
+Death 468: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:11:55 2022 
+Death 469: Killed by Bird in Stormveil Castle on Mon Mar  7 16:13:05 2022 
+Death 470: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:15:06 2022 
+Death 471: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:17:39 2022 
+Death 472: Killed by Bird in Stormveil Castle on Mon Mar  7 16:18:39 2022 
+Death 473: Killed by Bird in Stormveil Castle on Mon Mar  7 16:23:35 2022 
+Death 474: Killed by Bird in Stormveil Castle on Mon Mar  7 16:24:39 2022 
+Death 475: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:27:58 2022 
+Death 476: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:30:29 2022 
+Death 477: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:32:21 2022 
+Death 478: Killed by Bird in Stormveil Castle on Mon Mar  7 16:33:44 2022 
+Death 479: Killed by Bird in Stormveil Castle on Mon Mar  7 16:34:24 2022 
+Death 480: Killed by Bird in Stormveil Castle on Mon Mar  7 16:35:42 2022 
+Death 481: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:37:57 2022 
+Death 482: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:40:08 2022 
+Death 483: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:42:47 2022 
+Death 484: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:46:03 2022 
+Death 485: Killed by Bird in Stormveil Castle on Mon Mar  7 16:46:53 2022 
+Death 486: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 16:49:48 2022 
+Death 487: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:34:52 2022 
+Death 488: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:40:12 2022 
+Death 489: Killed by Dead Guy in Stormveil Castle on Mon Mar  7 17:46:05 2022 
+Death 490: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:48:32 2022 
+Death 491: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 17:51:32 2022 
+Death 492: Killed by Bird in Stormveil Castle on Mon Mar  7 21:27:31 2022 
+Death 493: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:29:14 2022 
+Death 494: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:31:41 2022 
+Death 495: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:34:31 2022 
+Death 496: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:38:27 2022 
+Death 497: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:40:51 2022 
+Death 498: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:43:34 2022 
+Death 499: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:46:18 2022
+Death 500: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:54:06 2022 
+Death 501: Killed by Sentry in Stormveil Castle on Mon Mar  7 21:56:28 2022 
+Death 502: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 21:59:08 2022 
+Death 503: Killed by Black and Silver Knight in Stormveil Castle on Mon Mar  7 22:01:12 2022 
+Death 504: Killed by Bird in Stormveil Castle on Tue Mar  8 22:04:52 2022 
+Death 505: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:07:37 2022 
+Death 506: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:14:38 2022 
+Death 507: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:16:55 2022 
+Death 508: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:19:19 2022 
+Death 509: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:21:22 2022 
+Death 510: Killed by Bird in Stormveil Castle on Tue Mar  8 22:22:09 2022 
+Death 511: Killed by Bird in Stormveil Castle on Tue Mar  8 22:22:58 2022 
+Death 512: Killed by Bird in Stormveil Castle on Tue Mar  8 22:34:31 2022 
+Death 513: Killed by Bird in Stormveil Castle on Tue Mar  8 22:39:46 2022 
+Death 514: Killed by Bird in Stormveil Castle on Tue Mar  8 22:40:58 2022 
+Death 515: Killed by Bird in Stormveil Castle on Tue Mar  8 22:42:01 2022 
+Death 516: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:44:16 2022 
+Death 517: Killed by Bird in Stormveil Castle on Tue Mar  8 22:45:37 2022 
+Death 518: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:47:42 2022 
+Death 519: Killed by Sentry in Stormveil Castle on Tue Mar  8 22:50:13 2022 
+Death 520: Killed by Bird in Stormveil Castle on Tue Mar  8 22:50:55 2022 
+Death 521: Killed by Bird in Stormveil Castle on Tue Mar  8 22:52:05 2022 
+Death 522: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:54:56 2022 
+Death 523: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:57:25 2022 
+Death 524: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 22:59:52 2022 
+Death 525: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:02:00 2022 
+Death 526: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:04:39 2022 
+Death 527: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:07:17 2022 
+Death 528: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:09:35 2022 
+Death 529: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:12:56 2022 
+Death 530: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:14:06 2022 
+Death 531: Killed by Bird in Stormveil Castle on Tue Mar  8 23:15:16 2022 
+Death 532: Killed by Axe Knight in Stormveil Castle on Tue Mar  8 23:20:16 2022 
+Death 533: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:22:46 2022 
+Death 534: Killed by Black and Silver Knight in Stormveil Castle on Tue Mar  8 23:25:09 2022 
+Death 535: Killed by Sentry in Stormveil Castle on Tue Mar  8 23:34:13 2022 
+Death 536: Killed by Cliff in Stormveil Castle on Tue Mar  8 23:46:43 2022 
+Death 537: Killed by Fall in Stormveil Castle on Tue Mar  8 23:49:22 2022 
+Death 538: Killed by Orange Knight in Stormveil Castle on Wed Mar  9 00:08:30 2022 
+Death 539: Killed by Cliff in Stormveil Castle on Wed Mar  9 00:13:25 2022 
+Death 540: Killed by Cliff in Limgrave on Thu Mar 10 08:17:47 2022 
+Death 541: Killed by Skeleton in Deathtouched Catacombs on Thu Mar 10 08:18:51 2022 
+Death 542: Killed by Pike Skeleton in Summonwater Village on Thu Mar 10 23:15:03 2022 
+Death 543: Killed by Giant in Limgrave on Fri Mar 11 08:07:20 2022 
+Death 544: Killed by Horse Glitch in Limgrave on Fri Mar 11 08:14:18 2022 
+Death 545: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:28:03 2022 
+Death 546: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:29:20 2022 
+Death 547: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:30:32 2022 
+Death 548: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:32:30 2022 
+Death 549: Killed by Spear Skeleton in Siofra River on Fri Mar 11 08:34:22 2022 
+Death 550: Killed by Big Crab in Siofra River on Fri Mar 11 08:45:42 2022 
+Death 551: Killed by Spirit Warrior in Siofra River on Fri Mar 11 08:58:55 2022 
+Death 552: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:34:18 2022 
+Death 553: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:34:26 2022 
+Death 554: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:34:38 2022 
+Death 555: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:37:24 2022 
+Death 556: Killed by Spear Skeleton in Siofra River on Fri Mar 11 12:52:48 2022 
+Death 557: Killed by Fall in Siofra River on Fri Mar 11 12:52:57 2022 
+Death 558: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:37:45 2022 
+Death 559: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:41:07 2022 
+Death 560: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:42:43 2022 
+Death 561: Killed by Spear Skeleton in Siofra River on Fri Mar 11 13:47:45 2022 
+Death 562: Killed by Crab in Siofra River on Fri Mar 11 14:04:52 2022 
+Death 563: Killed by Crab in Siofra River on Fri Mar 11 14:04:59 2022 
+Death 564: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:07:01 2022 
+Death 565: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:08:38 2022 
+Death 566: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:11:18 2022 
+Death 567: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:13:07 2022 
+Death 568: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:14:45 2022 
+Death 569: Killed by Spirit Archer in Siofra River on Fri Mar 11 14:29:49 2022 
+Death 570: Killed by Spirit Archer in Siofra River on Fri Mar 11 14:35:48 2022 
+Death 571: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:36:58 2022 
+Death 572: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:38:31 2022 
+Death 573: Killed by Fall in Siofra River on Fri Mar 11 14:49:46 2022 
+Death 574: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:58:00 2022 
+Death 575: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:58:06 2022 
+Death 576: Killed by Spirit Warrior in Siofra River on Fri Mar 11 14:59:54 2022 
+Death 577: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:18:26 2022 
+Death 578: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:22:42 2022 
+Death 579: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:27:49 2022 
+Death 580: Killed by Spirit Archer in Siofra River on Fri Mar 11 18:29:35 2022 
+Death 581: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:32:22 2022 
+Death 582: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:36:33 2022 
+Death 583: Killed by Spirit Archer in Siofra River on Fri Mar 11 18:39:28 2022 
+Death 584: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:41:41 2022 
+Death 585: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:42:49 2022
+Death 586: Killed by Spirit Warrior in Stormhill on Fri Mar 11 20:56:15 2022 
+Death 587: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:00:18 2022 
+Death 588: Killed by Spirit Warrior in Gatefront Ruins on Fri Mar 11 21:01:27 2022 
+Death 589: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:06:35 2022 
+Death 590: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:08:54 2022 
+Death 591: Killed by Electric Ball in Siofra River on Fri Mar 11 21:11:36 2022 
+Death 592: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:13:40 2022 
+Death 593: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:17:01 2022 
+Death 594: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:20:14 2022 
+Death 595: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:23:35 2022 
+Death 596: Killed by Crab in Siofra River on Fri Mar 11 21:28:44 2022 
+Death 597: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:30:12 2022 
+Death 598: Killed by Star Shower in Siofra River on Fri Mar 11 23:09:21 2022 
+Death 599: Killed by Spirit Warrior in Siofra River on Fri Mar 11 23:11:29 2022 
+Death 600: Killed by Poison in Siofra River on Fri Mar 11 23:17:03 2022 
+Death 601: Killed by Crab in Siofra River on Fri Mar 11 23:19:12 2022 
+Death 602: Killed by Flower in Siofra River on Fri Mar 11 23:28:47 2022 
+Death 603: Killed by Spirit Warrior in Siofra River on Sat Mar 12 12:17:27 2022 
+Death 604: Killed by Big Rat in Siofra River on Sat Mar 12 12:23:23 2022 
+Death 605: Killed by Cliff in Siofra River on Sat Mar 12 12:25:06 2022 
+Death 606: Killed by Spirit Warrior in Siofra River on Sat Mar 12 12:34:54 2022 
+Death 607: Killed by Fall in Siofra River on Sat Mar 12 13:03:31 2022 
+Death 608: Killed by Spirit Warrior in Siofra River on Sat Mar 12 13:03:39 2022 
+Death 609: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:07:19 2022 
+Death 610: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:09:06 2022 
+Death 611: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:13:37 2022 
+Death 612: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:18:27 2022 
+Death 613: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:21:13 2022 
+Death 614: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:23:05 2022 
+Death 615: Killed by Mad Tongue Alberich in Roundtable Hold on Sat Mar 12 13:42:13 2022 
+Death 616: Killed by Mad Tongue Alberich in Roundtable Hold on Sat Mar 12 13:44:36 2022 
+Death 617: Killed by Mad tongue Alberich in Roundtable Hold on Sat Mar 12 13:44:44 2022 
+Death 618: Killed by Fall in Stormveil Castle on Sat Mar 12 17:33:50 2022 
+Death 619: Killed by Fall in Stormveil Castle on Sat Mar 12 17:33:58 2022 
+Death 620: Killed by Sentry in Stormveil Castle on Sat Mar 12 17:37:26 2022 
+Death 621: Killed by Pike Knight in Stormveil Castle on Sat Mar 12 17:51:05 2022 
+Death 622: Killed by Pike Knight in Stormveil Castle on Sat Mar 12 18:03:57 2022 
+Death 623: Killed by Axe Sentry in Stormveil Castle on Sun Mar 13 21:16:31 2022
+Death 624: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:31:34 2022 
+Death 625: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:35:22 2022 
+Death 626: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:38:52 2022 
+Death 627: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:40:22 2022 
+Death 628: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:41:51 2022 
+Death 629: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:44:12 2022 
+Death 630: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:46:42 2022 
+Death 631: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:48:37 2022 
+Death 632: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:51:00 2022 
+Death 633: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:52:27 2022 
+Death 634: Killed by Bat in Stillwater Cave on Mon Mar 14 08:25:20 2022 
+Death 635: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:35:38 2022 
+Death 636: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:45:13 2022 
+Death 637: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:46:58 2022 
+Death 638: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:51:38 2022 
+Death 639: Killed by Lobster in Liurnia of the Lakes on Mon Mar 14 09:02:20 2022 
+Death 640: Killed by Fall in Liurnia of the Lakes on Mon Mar 14 09:02:32 2022 
+Death 641: Killed by Fall in Liurnia of the Lakes on Mon Mar 14 09:14:56 2022 
+Death 642: Killed by Cemetary Skeleton in Liurnia of the Lakes on Mon Mar 14 09:17:56 2022 
+Death 643: Killed by Cemetary Skeleton in Liurnia of the Lakes on Mon Mar 14 09:20:44 2022 
+Death 644: Killed by Cemetary Skeleton in Liurnia of the Lakes on Mon Mar 14 09:22:58 2022 
+Death 645: Killed by Digging Dragon in Stormveil Castle on Tue Mar 15 19:04:35 2022 
+Death 646: Killed by Fall in Stormveil Castle on Tue Mar 15 19:04:58 2022 
+Death 647: Killed by Digging Dragon in Stormveil Castle on Tue Mar 15 19:09:39 2022 
+Death 648: Killed by Digging Dragon in Stormveil Castle on Tue Mar 15 19:13:15 2022 
+Death 649: Killed by Crossbow Arms in Liurnia of the Lakes on Tue Mar 15 19:20:19 2022 
+Death 650: Killed by Adam, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:41:05 2022 
+Death 651: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:44:56 2022 
+Death 652: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:47:59 2022 
+Death 653: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:54:26 2022 
+Death 654: Killed by Adan, Thief of Death in Liurnia of the Lakes on Tue Mar 15 19:54:44 2022 
+Death 655: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:58:05 2022 
+Death 656: Killed by Bloodhound Knight in Lakeside Crystal Cave on Tue Mar 15 20:46:38 2022 
+Death 657: Killed by Bloodhound Knight in Lakeside Crystal Cave on Tue Mar 15 20:49:19 2022 
+Death 658: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:51:09 2022 
+Death 659: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:51:17 2022 
+Death 660: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:52:25 2022 
+Death 661: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 20:53:58 2022 
+Death 662: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 20:56:22 2022 
+Death 663: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 20:57:52 2022 
+Death 664: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:58:24 2022 
+Death 665: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:00:09 2022 
+Death 666: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:01:43 2022 
+Death 667: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:05:59 2022 
+Death 668: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:07:58 2022 
+Death 669: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:12:58 2022 
+Death 670: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:15:56 2022 
+Death 671: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:18:11 2022 
+Death 672: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 21:18:56 2022 
+Death 673: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:24:34 2022 
+Death 674: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:27:01 2022 
+Death 675: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 21:27:28 2022 
+Death 676: Killed by Poison Pod in Academy Gate Town on Wed Mar 16 07:33:04 2022 
+Death 677: Killed by Swamp Clubber in Liurnia of the Lakes on Wed Mar 16 07:43:56 2022 
+Death 678: Killed by Swamp Spitter in Liurnia of the Lakes on Wed Mar 16 08:00:29 2022 
+Death 679: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 08:26:05 2022 
+Death 680: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 08:28:13 2022 
+Death 681: Killed by Fall in Liurnia of the Lakes on Wed Mar 16 08:29:02 2022 
+Death 682: Killed by Fall in Liurnia of the Lakes on Wed Mar 16 08:29:29 2022 
+Death 683: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:44:19 2022 
+Death 684: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:45:42 2022 
+Death 685: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:47:06 2022 
+Death 686: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:49:18 2022 
+Death 687: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:49:57 2022 
+Death 688: Killed by Fall in Liurnia of the Lakes on Wed Mar 16 08:53:53 2022 
+Death 689: Killed by Fall in Ainsel River on Wed Mar 16 12:16:52 2022 
+Death 690: Killed by Hairy Ant in Uhl Palace Ruins on Wed Mar 16 12:20:12 2022 
+Death 691: Killed by Hairy Ant in Uhl Palace Ruins on Wed Mar 16 12:22:06 2022 
+Death 692: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:27:28 2022 
+Death 693: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:30:04 2022 
+Death 694: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:32:40 2022 
+Death 695: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:34:12 2022 
+Death 696: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:36:19 2022 
+Death 697: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:39:32 2022 
+Death 698: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:42:14 2022 
+Death 699: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:45:27 2022 
+Death 700: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:49:02 2022 
+Death 701: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:51:40 2022 
+Death 702: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:54:56 2022 
+Death 703: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:59:25 2022 
+Death 704: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:12:49 2022 
+Death 705: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:12:56 2022 
+Death 706: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:15:58 2022 
+Death 707: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:18:02 2022 
+Death 708: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:29:52 2022 
+Death 709: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:35:42 2022 
+Death 710: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:38:52 2022 
+Death 711: Killed by Stone Giant in Liurnia of the Lakes on Wed Mar 16 20:55:36 2022 
+Death 712: Killed by Stone Giant in Liurnia of the Lakes on Wed Mar 16 20:58:07 2022 
+Death 713: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 21:05:58 2022 
+Death 714: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 21:09:44 2022 
+Death 715: Killed by Warrior in Liurnia of the Lakes on Wed Mar 16 21:19:32 2022 
+Death 716: Killed by Minor Erdtree in Liurnia of the Lakes on Wed Mar 16 21:19:42 2022 
+Death 717: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 21:23:08 2022 
+Death 718: Killed by Warrior in Liurnia of the Lakes on Wed Mar 16 21:24:27 2022 
+Death 719: Killed by Fall in Uld Palace Ruins on Fri Mar 18 07:35:47 2022 
+Death 720: Killed by Archer in Uld Palace Ruins on Fri Mar 18 07:37:09 2022 
+Death 721: Killed by Archer in Uld Palace Ruins on Fri Mar 18 07:39:28 2022 
+Death 722: Killed by Archer in Uld Palace Ruins on Fri Mar 18 07:40:53 2022 
+Death 723: Killed by Erdtree Avatar in Liurnia of the Lakes on Fri Mar 18 07:56:34 2022 
+Death 724: Killed by Erdtree Avatar in Liurnia of the Lakes on Fri Mar 18 08:00:21 2022 
+Death 725: Killed by Erdtree Avatar in Liurnia of the Lakes on Fri Mar 18 08:03:09 2022 
+Death 726: Killed by Skeleton in Black Knife Catacombs on Fri Mar 18 08:23:41 2022 
+Death 727: Killed by Crab in Black Knife Catacombs on Fri Mar 18 08:24:20 2022 
+Death 728: Killed by Fire Bomb in Black Knife Catacombs on Fri Mar 18 08:26:59 2022 
+Death 729: Killed by Skeleton in Black Knife Catacombs on Fri Mar 18 08:28:37 2022 
+Death 730: Killed by Fire Bomb in Black Knife Catacombs on Fri Mar 18 08:31:49 2022 
+Death 731: Killed by Skeleton in Black Knife Catacombs on Fri Mar 18 08:40:11 2022 
+Death 732: Killed by Trap in Black Knife Catacombs on Fri Mar 18 08:42:01 2022 
+Death 733: Killed by Black Knife Assassin in Black Knife Catacombs on Fri Mar 18 08:47:42 2022 
+Death 734: Killed by Fire Bomb in Black Knife Catacombs on Fri Mar 18 08:48:31 2022 
+Death 735: Killed by Archer Skeleton in Black Knife Catacombs on Fri Mar 18 08:49:49 2022 
+Death 736: Killed by Black Knife Assassin in Black Knife Catacombs on Fri Mar 18 08:54:43 2022 
+Death 737: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 08:55:46 2022 
+Death 738: Killed by Black Knife Assassin in Black Knife Catacombs on Fri Mar 18 08:57:56 2022 
+Death 739: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 09:05:21 2022 
+Death 740: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 09:06:52 2022 
+Death 741: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 09:09:32 2022 
+Death 742: Killed by Headless Knight in Bellum Highway on Fri Mar 18 09:13:11 2022 
+Death 743: Killed by Headless Knight in Bellum Highway on Fri Mar 18 09:13:43 2022 
+Death 744: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 09:21:52 2022 
+Death 745: Killed by Fall in Bellum Highway on Fri Mar 18 10:12:49 2022 
+Death 746: Killed by Fall in Bellum Highway on Fri Mar 18 10:13:57 2022 
+Death 747: Killed by Miner in Bellum Highway on Fri Mar 18 10:16:12 2022 
+Death 748: Killed by Sorcerer in Bellum Highway on Fri Mar 18 10:23:35 2022 
+Death 749: Killed by Mage in Academy Crystal Cave on Fri Mar 18 11:10:44 2022 
+Death 750: Killed by Crystalline Boss in Academy Crystal Cave on Fri Mar 18 11:19:08 2022 
+Death 751: Killed by Mage in Academy Crystal Cave on Fri Mar 18 11:19:13 2022 
+Death 752: Killed by Crystalian (Spear) in Academy Crystal Cave on Fri Mar 18 11:22:36 2022 
+Death 753: Killed by Crystalian (Spear) in Academy Crystal Cave on Fri Mar 18 11:24:25 2022 
+Death 754: Killed by Crystalian (Spear) in Academy Crystal Cave on Fri Mar 18 11:26:10 2022 
+Death 755: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:43:07 2022 
+Death 756: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:43:51 2022 
+Death 757: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:44:50 2022 
+Death 758: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:49:43 2022 
+Death 759: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:51:27 2022 
+Death 760: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:53:03 2022 
+Death 761: Killed by Spiritcaller Snail in Road's End Catacombs on Fri Mar 18 12:11:43 2022 
+Death 762: Killed by Spiritcaller Snail in Road's End Catacombs on Fri Mar 18 12:13:18 2022 
+Death 763: Killed by Spiritcaller Snail in Road's End Catacombs on Fri Mar 18 12:14:05 2022 
+Death 764: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 12:29:39 2022 
+Death 765: Killed by Balloon Pikers in Liurnia of the Lakes on Fri Mar 18 12:47:32 2022 
+Death 766: Killed by Poison Pod in Liurnia of the Lakes on Fri Mar 18 12:50:58 2022 
+Death 767: Killed by Balloon Pikers in Liurnia of the Lakes on Fri Mar 18 12:51:47 2022 
+Death 768: Killed by Swamp Warrior in Liurnia of the Lakes on Fri Mar 18 12:52:35 2022 
+Death 769: Killed by Giant Poison Pod in Liurnia of the Lakes on Fri Mar 18 13:14:24 2022 
+Death 770: Killed by Miner in Liurnia of the Lakes on Fri Mar 18 13:19:44 2022 
+Death 771: Killed by Miner in Liurnia of the Lakes on Fri Mar 18 13:30:49 2022 
+Death 772: Killed by Back Jumper in Liurnia of the Lakes on Fri Mar 18 13:39:17 2022 
+Death 773: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 13:41:35 2022 
+Death 774: Killed by Back Jumper in Liurnia of the Lakes on Fri Mar 18 13:43:42 2022 
+Death 775: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 13:45:42 2022 
+Death 776: Killed by Fall in Ruin-Strewn Precipice on Fri Mar 18 13:57:15 2022 
+Death 777: Killed by Bat in Ruin-Strewn Precipice on Fri Mar 18 14:00:24 2022 
+Death 778: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:05:06 2022 
+Death 779: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:09:55 2022 
+Death 780: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:13:00 2022 
+Death 781: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:15:57 2022 
+Death 782: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:36:33 2022 
+Death 783: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:37:32 2022 
+Death 784: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:39:26 2022 
+Death 785: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:41:55 2022 
+Death 786: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:43:24 2022 
+Death 787: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:47:09 2022 
+Death 788: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:49:14 2022 
+Death 789: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:58:43 2022 
+Death 790: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:00:34 2022 
+Death 791: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:01:49 2022 
+Death 792: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:06:53 2022 
+Death 793: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:07:32 2022 
+Death 794: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:11:04 2022 
+Death 795: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:12:37 2022 
+Death 796: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:17:06 2022 
+Death 797: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:20:04 2022 
+Death 798: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:25:48 2022 
+Death 799: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:31:48 2022 
+Death 800: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:35:21 2022 
+Death 801: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:39:57 2022 
+Death 802: Killed by Fall in Altus Plateau on Fri Mar 18 15:55:20 2022 
+Death 803: Killed by Shielded Mage in Altus Plateau on Fri Mar 18 15:59:52 2022 
+Death 804: Killed by Fall in Altus Plateau on Fri Mar 18 16:16:36 2022 
+Death 805: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:29:03 2022 
+Death 806: Killed by Sword Undead in Sage's Cave on Sat Mar 19 00:30:22 2022 
+Death 807: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:31:44 2022 
+Death 808: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:33:30 2022 
+Death 809: Killed by Undead Archer in Sage's Cave on Sat Mar 19 00:35:29 2022 
+Death 810: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:36:44 2022 
+Death 811: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:38:16 2022 
+Death 812: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:40:42 2022 
