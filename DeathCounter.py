@@ -9,6 +9,7 @@ from turtle import title
 #repeat last death
 #selection of enemies, add enemy button
 
+
 def popup():
 
     global additional_deaths
@@ -43,10 +44,10 @@ def popup():
         #writes info to file when button is pressed
         def submit_death(death_count):
             global additional_deaths
-            
+
             def update_death_count_in_death_string(new_amount):
                 return "Death %d: Killed by %s in %s on %s \n"%(new_amount, death_reason.get(), death_location, death_time.strftime("%c"))
-            
+
             def repeat_death():
                 return None
             
@@ -90,11 +91,13 @@ def popup():
         death_reason.pack(pady=10)
         
         #array of locations
+
         locations = ["Limgrave", "Stormfront Catacombs", "Gatefront Ruins", "Stormgate", "Stormhill", "Stormveil Castle", 
                      "Deathtouched Catacombs", "Summonwater Village", "Siofra River", "Roundtable Hold", "Stillwater Cave", 
                      "Liurnia of the Lakes", "Lakeside Crystal Caves", "Ainsel River", "Uhl Palace Ruins", "Uld Palace Ruins", 
                      "Black Knife Catacombs", "Bellum Highway", "Academy Crystal Cave", "Temple Quarter", "Road's End Catacombs",
                      "Ruin-Strewn Precipice", "Altus Plateau"]
+
         
         #add array of locations to selectable list
         location_list = ttk.Combobox(frame, values = locations)
