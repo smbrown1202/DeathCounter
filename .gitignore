@@ -1,6 +1,3 @@
-#death count file
-deathcount.txt
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
