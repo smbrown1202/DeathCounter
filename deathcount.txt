@@ -583,3 +583,230 @@ Death 582: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:36:33 2022
 Death 583: Killed by Spirit Archer in Siofra River on Fri Mar 11 18:39:28 2022 
 Death 584: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:41:41 2022 
 Death 585: Killed by Spirit Warrior in Siofra River on Fri Mar 11 18:42:49 2022
+Death 586: Killed by Spirit Warrior in Stormhill on Fri Mar 11 20:56:15 2022 
+Death 587: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:00:18 2022 
+Death 588: Killed by Spirit Warrior in Gatefront Ruins on Fri Mar 11 21:01:27 2022 
+Death 589: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:06:35 2022 
+Death 590: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:08:54 2022 
+Death 591: Killed by Electric Ball in Siofra River on Fri Mar 11 21:11:36 2022 
+Death 592: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:13:40 2022 
+Death 593: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:17:01 2022 
+Death 594: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:20:14 2022 
+Death 595: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:23:35 2022 
+Death 596: Killed by Crab in Siofra River on Fri Mar 11 21:28:44 2022 
+Death 597: Killed by Spirit Warrior in Siofra River on Fri Mar 11 21:30:12 2022 
+Death 598: Killed by Star Shower in Siofra River on Fri Mar 11 23:09:21 2022 
+Death 599: Killed by Spirit Warrior in Siofra River on Fri Mar 11 23:11:29 2022 
+Death 600: Killed by Poison in Siofra River on Fri Mar 11 23:17:03 2022 
+Death 601: Killed by Crab in Siofra River on Fri Mar 11 23:19:12 2022 
+Death 602: Killed by Flower in Siofra River on Fri Mar 11 23:28:47 2022 
+Death 603: Killed by Spirit Warrior in Siofra River on Sat Mar 12 12:17:27 2022 
+Death 604: Killed by Big Rat in Siofra River on Sat Mar 12 12:23:23 2022 
+Death 605: Killed by Cliff in Siofra River on Sat Mar 12 12:25:06 2022 
+Death 606: Killed by Spirit Warrior in Siofra River on Sat Mar 12 12:34:54 2022 
+Death 607: Killed by Fall in Siofra River on Sat Mar 12 13:03:31 2022 
+Death 608: Killed by Spirit Warrior in Siofra River on Sat Mar 12 13:03:39 2022 
+Death 609: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:07:19 2022 
+Death 610: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:09:06 2022 
+Death 611: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:13:37 2022 
+Death 612: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:18:27 2022 
+Death 613: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:21:13 2022 
+Death 614: Killed by Ancestor Spirit in Siofra River on Sat Mar 12 13:23:05 2022 
+Death 615: Killed by Mad Tongue Alberich in Roundtable Hold on Sat Mar 12 13:42:13 2022 
+Death 616: Killed by Mad Tongue Alberich in Roundtable Hold on Sat Mar 12 13:44:36 2022 
+Death 617: Killed by Mad tongue Alberich in Roundtable Hold on Sat Mar 12 13:44:44 2022 
+Death 618: Killed by Fall in Stormveil Castle on Sat Mar 12 17:33:50 2022 
+Death 619: Killed by Fall in Stormveil Castle on Sat Mar 12 17:33:58 2022 
+Death 620: Killed by Sentry in Stormveil Castle on Sat Mar 12 17:37:26 2022 
+Death 621: Killed by Pike Knight in Stormveil Castle on Sat Mar 12 17:51:05 2022 
+Death 622: Killed by Pike Knight in Stormveil Castle on Sat Mar 12 18:03:57 2022 
+Death 623: Killed by Axe Sentry in Stormveil Castle on Sun Mar 13 21:16:31 2022
+Death 624: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:31:34 2022 
+Death 625: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:35:22 2022 
+Death 626: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:38:52 2022 
+Death 627: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:40:22 2022 
+Death 628: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:41:51 2022 
+Death 629: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:44:12 2022 
+Death 630: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:46:42 2022 
+Death 631: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:48:37 2022 
+Death 632: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:51:00 2022 
+Death 633: Killed by Godrick in Stormveil Castle on Mon Mar 14 07:52:27 2022 
+Death 634: Killed by Bat in Stillwater Cave on Mon Mar 14 08:25:20 2022 
+Death 635: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:35:38 2022 
+Death 636: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:45:13 2022 
+Death 637: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:46:58 2022 
+Death 638: Killed by Cleanrot Knight in Stillwater Cave on Mon Mar 14 08:51:38 2022 
+Death 639: Killed by Lobster in Liurnia of the Lakes on Mon Mar 14 09:02:20 2022 
+Death 640: Killed by Fall in Liurnia of the Lakes on Mon Mar 14 09:02:32 2022 
+Death 641: Killed by Fall in Liurnia of the Lakes on Mon Mar 14 09:14:56 2022 
+Death 642: Killed by Cemetary Skeleton in Liurnia of the Lakes on Mon Mar 14 09:17:56 2022 
+Death 643: Killed by Cemetary Skeleton in Liurnia of the Lakes on Mon Mar 14 09:20:44 2022 
+Death 644: Killed by Cemetary Skeleton in Liurnia of the Lakes on Mon Mar 14 09:22:58 2022 
+Death 645: Killed by Digging Dragon in Stormveil Castle on Tue Mar 15 19:04:35 2022 
+Death 646: Killed by Fall in Stormveil Castle on Tue Mar 15 19:04:58 2022 
+Death 647: Killed by Digging Dragon in Stormveil Castle on Tue Mar 15 19:09:39 2022 
+Death 648: Killed by Digging Dragon in Stormveil Castle on Tue Mar 15 19:13:15 2022 
+Death 649: Killed by Crossbow Arms in Liurnia of the Lakes on Tue Mar 15 19:20:19 2022 
+Death 650: Killed by Adam, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:41:05 2022 
+Death 651: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:44:56 2022 
+Death 652: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:47:59 2022 
+Death 653: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:54:26 2022 
+Death 654: Killed by Adan, Thief of Death in Liurnia of the Lakes on Tue Mar 15 19:54:44 2022 
+Death 655: Killed by Adan, Thief of Fire in Liurnia of the Lakes on Tue Mar 15 19:58:05 2022 
+Death 656: Killed by Bloodhound Knight in Lakeside Crystal Cave on Tue Mar 15 20:46:38 2022 
+Death 657: Killed by Bloodhound Knight in Lakeside Crystal Cave on Tue Mar 15 20:49:19 2022 
+Death 658: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:51:09 2022 
+Death 659: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:51:17 2022 
+Death 660: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:52:25 2022 
+Death 661: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 20:53:58 2022 
+Death 662: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 20:56:22 2022 
+Death 663: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 20:57:52 2022 
+Death 664: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 20:58:24 2022 
+Death 665: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:00:09 2022 
+Death 666: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:01:43 2022 
+Death 667: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:05:59 2022 
+Death 668: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:07:58 2022 
+Death 669: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:12:58 2022 
+Death 670: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:15:56 2022 
+Death 671: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:18:11 2022 
+Death 672: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 21:18:56 2022 
+Death 673: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:24:34 2022 
+Death 674: Killed by Bloodhound Knight in Lakeside Crystal Caves on Tue Mar 15 21:27:01 2022 
+Death 675: Killed by Fall in Lakeside Crystal Caves on Tue Mar 15 21:27:28 2022 
+Death 676: Killed by Poison Pod in Academy Gate Town on Wed Mar 16 07:33:04 2022 
+Death 677: Killed by Swamp Clubber in Liurnia of the Lakes on Wed Mar 16 07:43:56 2022 
+Death 678: Killed by Swamp Spitter in Liurnia of the Lakes on Wed Mar 16 08:00:29 2022 
+Death 679: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 08:26:05 2022 
+Death 680: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 08:28:13 2022 
+Death 681: Killed by Fall in Liurnia of the Lakes on Wed Mar 16 08:29:02 2022 
+Death 682: Killed by Fall in Liurnia of the Lakes on Wed Mar 16 08:29:29 2022 
+Death 683: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:44:19 2022 
+Death 684: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:45:42 2022 
+Death 685: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:47:06 2022 
+Death 686: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:49:18 2022 
+Death 687: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 08:49:57 2022 
+Death 688: Killed by Fall in Liurnia of the Lakes on Wed Mar 16 08:53:53 2022 
+Death 689: Killed by Fall in Ainsel River on Wed Mar 16 12:16:52 2022 
+Death 690: Killed by Hairy Ant in Uhl Palace Ruins on Wed Mar 16 12:20:12 2022 
+Death 691: Killed by Hairy Ant in Uhl Palace Ruins on Wed Mar 16 12:22:06 2022 
+Death 692: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:27:28 2022 
+Death 693: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:30:04 2022 
+Death 694: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:32:40 2022 
+Death 695: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:34:12 2022 
+Death 696: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:36:19 2022 
+Death 697: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:39:32 2022 
+Death 698: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:42:14 2022 
+Death 699: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:45:27 2022 
+Death 700: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:49:02 2022 
+Death 701: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:51:40 2022 
+Death 702: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:54:56 2022 
+Death 703: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 12:59:25 2022 
+Death 704: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:12:49 2022 
+Death 705: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:12:56 2022 
+Death 706: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:15:58 2022 
+Death 707: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:18:02 2022 
+Death 708: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:29:52 2022 
+Death 709: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:35:42 2022 
+Death 710: Killed by Dragonkin Soldier of Nokstella in Ainsel River on Wed Mar 16 13:38:52 2022 
+Death 711: Killed by Stone Giant in Liurnia of the Lakes on Wed Mar 16 20:55:36 2022 
+Death 712: Killed by Stone Giant in Liurnia of the Lakes on Wed Mar 16 20:58:07 2022 
+Death 713: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 21:05:58 2022 
+Death 714: Killed by Bear in Liurnia of the Lakes on Wed Mar 16 21:09:44 2022 
+Death 715: Killed by Warrior in Liurnia of the Lakes on Wed Mar 16 21:19:32 2022 
+Death 716: Killed by Minor Erdtree in Liurnia of the Lakes on Wed Mar 16 21:19:42 2022 
+Death 717: Killed by Erdtree Avatar in Liurnia of the Lakes on Wed Mar 16 21:23:08 2022 
+Death 718: Killed by Warrior in Liurnia of the Lakes on Wed Mar 16 21:24:27 2022 
+Death 719: Killed by Fall in Uld Palace Ruins on Fri Mar 18 07:35:47 2022 
+Death 720: Killed by Archer in Uld Palace Ruins on Fri Mar 18 07:37:09 2022 
+Death 721: Killed by Archer in Uld Palace Ruins on Fri Mar 18 07:39:28 2022 
+Death 722: Killed by Archer in Uld Palace Ruins on Fri Mar 18 07:40:53 2022 
+Death 723: Killed by Erdtree Avatar in Liurnia of the Lakes on Fri Mar 18 07:56:34 2022 
+Death 724: Killed by Erdtree Avatar in Liurnia of the Lakes on Fri Mar 18 08:00:21 2022 
+Death 725: Killed by Erdtree Avatar in Liurnia of the Lakes on Fri Mar 18 08:03:09 2022 
+Death 726: Killed by Skeleton in Black Knife Catacombs on Fri Mar 18 08:23:41 2022 
+Death 727: Killed by Crab in Black Knife Catacombs on Fri Mar 18 08:24:20 2022 
+Death 728: Killed by Fire Bomb in Black Knife Catacombs on Fri Mar 18 08:26:59 2022 
+Death 729: Killed by Skeleton in Black Knife Catacombs on Fri Mar 18 08:28:37 2022 
+Death 730: Killed by Fire Bomb in Black Knife Catacombs on Fri Mar 18 08:31:49 2022 
+Death 731: Killed by Skeleton in Black Knife Catacombs on Fri Mar 18 08:40:11 2022 
+Death 732: Killed by Trap in Black Knife Catacombs on Fri Mar 18 08:42:01 2022 
+Death 733: Killed by Black Knife Assassin in Black Knife Catacombs on Fri Mar 18 08:47:42 2022 
+Death 734: Killed by Fire Bomb in Black Knife Catacombs on Fri Mar 18 08:48:31 2022 
+Death 735: Killed by Archer Skeleton in Black Knife Catacombs on Fri Mar 18 08:49:49 2022 
+Death 736: Killed by Black Knife Assassin in Black Knife Catacombs on Fri Mar 18 08:54:43 2022 
+Death 737: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 08:55:46 2022 
+Death 738: Killed by Black Knife Assassin in Black Knife Catacombs on Fri Mar 18 08:57:56 2022 
+Death 739: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 09:05:21 2022 
+Death 740: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 09:06:52 2022 
+Death 741: Killed by Cemetary Shade in Black Knife Catacombs on Fri Mar 18 09:09:32 2022 
+Death 742: Killed by Headless Knight in Bellum Highway on Fri Mar 18 09:13:11 2022 
+Death 743: Killed by Headless Knight in Bellum Highway on Fri Mar 18 09:13:43 2022 
+Death 744: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 09:21:52 2022 
+Death 745: Killed by Fall in Bellum Highway on Fri Mar 18 10:12:49 2022 
+Death 746: Killed by Fall in Bellum Highway on Fri Mar 18 10:13:57 2022 
+Death 747: Killed by Miner in Bellum Highway on Fri Mar 18 10:16:12 2022 
+Death 748: Killed by Sorcerer in Bellum Highway on Fri Mar 18 10:23:35 2022 
+Death 749: Killed by Mage in Academy Crystal Cave on Fri Mar 18 11:10:44 2022 
+Death 750: Killed by Crystalline Boss in Academy Crystal Cave on Fri Mar 18 11:19:08 2022 
+Death 751: Killed by Mage in Academy Crystal Cave on Fri Mar 18 11:19:13 2022 
+Death 752: Killed by Crystalian (Spear) in Academy Crystal Cave on Fri Mar 18 11:22:36 2022 
+Death 753: Killed by Crystalian (Spear) in Academy Crystal Cave on Fri Mar 18 11:24:25 2022 
+Death 754: Killed by Crystalian (Spear) in Academy Crystal Cave on Fri Mar 18 11:26:10 2022 
+Death 755: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:43:07 2022 
+Death 756: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:43:51 2022 
+Death 757: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:44:50 2022 
+Death 758: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:49:43 2022 
+Death 759: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:51:27 2022 
+Death 760: Killed by Swamp Warrior in Temple Quarter on Fri Mar 18 11:53:03 2022 
+Death 761: Killed by Spiritcaller Snail in Road's End Catacombs on Fri Mar 18 12:11:43 2022 
+Death 762: Killed by Spiritcaller Snail in Road's End Catacombs on Fri Mar 18 12:13:18 2022 
+Death 763: Killed by Spiritcaller Snail in Road's End Catacombs on Fri Mar 18 12:14:05 2022 
+Death 764: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 12:29:39 2022 
+Death 765: Killed by Balloon Pikers in Liurnia of the Lakes on Fri Mar 18 12:47:32 2022 
+Death 766: Killed by Poison Pod in Liurnia of the Lakes on Fri Mar 18 12:50:58 2022 
+Death 767: Killed by Balloon Pikers in Liurnia of the Lakes on Fri Mar 18 12:51:47 2022 
+Death 768: Killed by Swamp Warrior in Liurnia of the Lakes on Fri Mar 18 12:52:35 2022 
+Death 769: Killed by Giant Poison Pod in Liurnia of the Lakes on Fri Mar 18 13:14:24 2022 
+Death 770: Killed by Miner in Liurnia of the Lakes on Fri Mar 18 13:19:44 2022 
+Death 771: Killed by Miner in Liurnia of the Lakes on Fri Mar 18 13:30:49 2022 
+Death 772: Killed by Back Jumper in Liurnia of the Lakes on Fri Mar 18 13:39:17 2022 
+Death 773: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 13:41:35 2022 
+Death 774: Killed by Back Jumper in Liurnia of the Lakes on Fri Mar 18 13:43:42 2022 
+Death 775: Killed by Fall in Liurnia of the Lakes on Fri Mar 18 13:45:42 2022 
+Death 776: Killed by Fall in Ruin-Strewn Precipice on Fri Mar 18 13:57:15 2022 
+Death 777: Killed by Bat in Ruin-Strewn Precipice on Fri Mar 18 14:00:24 2022 
+Death 778: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:05:06 2022 
+Death 779: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:09:55 2022 
+Death 780: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:13:00 2022 
+Death 781: Killed by Singing Bat in Ruin-Strewn Precipice on Fri Mar 18 14:15:57 2022 
+Death 782: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:36:33 2022 
+Death 783: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:37:32 2022 
+Death 784: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:39:26 2022 
+Death 785: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:41:55 2022 
+Death 786: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:43:24 2022 
+Death 787: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:47:09 2022 
+Death 788: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:49:14 2022 
+Death 789: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 14:58:43 2022 
+Death 790: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:00:34 2022 
+Death 791: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:01:49 2022 
+Death 792: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:06:53 2022 
+Death 793: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:07:32 2022 
+Death 794: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:11:04 2022 
+Death 795: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:12:37 2022 
+Death 796: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:17:06 2022 
+Death 797: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:20:04 2022 
+Death 798: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:25:48 2022 
+Death 799: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:31:48 2022 
+Death 800: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:35:21 2022 
+Death 801: Killed by Magma Wyrm Makar in Ruin-Strewn Precipice on Fri Mar 18 15:39:57 2022 
+Death 802: Killed by Fall in Altus Plateau on Fri Mar 18 15:55:20 2022 
+Death 803: Killed by Shielded Mage in Altus Plateau on Fri Mar 18 15:59:52 2022 
+Death 804: Killed by Fall in Altus Plateau on Fri Mar 18 16:16:36 2022 
+Death 805: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:29:03 2022 
+Death 806: Killed by Sword Undead in Sage's Cave on Sat Mar 19 00:30:22 2022 
+Death 807: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:31:44 2022 
+Death 808: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:33:30 2022 
+Death 809: Killed by Undead Archer in Sage's Cave on Sat Mar 19 00:35:29 2022 
+Death 810: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:36:44 2022 
+Death 811: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:38:16 2022 
+Death 812: Killed by Axe Undead in Sage's Cave on Sat Mar 19 00:40:42 2022 
