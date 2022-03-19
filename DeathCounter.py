@@ -1,10 +1,10 @@
 from datetime import datetime
 from tkinter import ttk
 from tkinter import *
+from turtle import title
 
 #TODO
 #refactor using new death object
-#change window color and/or make transparent
 #save file as array for easy retrieval and retrieve death count from it
 #repeat last death
 #selection of enemies, add enemy button
@@ -77,11 +77,12 @@ def popup():
                 new_death_window.destroy()
         
         #create new death window
-        new_death_window = Toplevel()
+        new_death_window = Toplevel(bg='black')
+        new_death_window.attributes('-alpha', 0.9)
         new_death_window.title("Adding New Death")
         new_death_window.geometry('500x150')
         
-        frame = Frame(new_death_window)
+        frame = Frame(new_death_window, bg='black')
         frame.pack()
         
         #create input box for death reason
@@ -101,40 +102,42 @@ def popup():
         location_list.pack()
         
         #create label instance placeholder for invalid input
-        invalid_input_label = Label(frame)
+        invalid_input_label = Label(frame, bg='black', fg='white')
         
         #create button for submitting death information
-        add_new_death_button = Button(frame, text="Add", command=lambda:submit_death(death_count))
+        add_new_death_button = Button(frame, text="Add", bg='black', fg='white', command=lambda:submit_death(death_count))
         add_new_death_button.pack(pady=10, padx=10, expand="True")
         invalid_input_label.pack(pady=10, padx=10, expand="True")
         
         if (additional_deaths != 0):
-            just_added = Label(frame, text="Just added: ")            
+            just_added = Label(frame, text="Just added: ", bg='black', fg='white')            
             #repeat_recent_death = Button(frame, text="Repeat Last Death", command=repeat_death)
             #repeat_recent_death.pack()    
 
     #main logic
-    death_file = "C://Source//python//DeathCounter//deathcount.txt"
+    death_file = "deathcount.txt"
     death_count = read_death_count_from_file()
         
     #main window object
     main = Tk()
+    main.configure(bg='black')
+    main.attributes('-alpha', 0.9)
 
     #title and dimensions of window
     main.title("Death Counter")
     main.geometry('300x150')
-    main.iconbitmap('C:/Source/python/DeathCounter/assets/eldenringicon.ico')
+    main.iconbitmap('assets/eldenringicon.ico')
     
     #display total death count on top
-    count_message = Label(main, text="Total Deaths: %d"%death_count)
+    count_message = Label(main, text="Total Deaths: %d"%death_count, bg='black', fg='white')
     count_message.pack(ipady=10)
 
     #add button to middle of window
-    add_death_button = Button(main, text='Add Death', compound=LEFT, command=lambda:add_death_to_file(death_count)) 
+    add_death_button = Button(main, text='Add Death', compound=LEFT, bg='black', fg='white', command=lambda:add_death_to_file(death_count)) 
     add_death_button.pack(ipadx=5, ipady=5, expand=True)
 
     #instantiate label placeholder for recently added deaths area at bottom
-    success_text = Label(main, text="Go die a few more times", wraplength=250)
+    success_text = Label(main, text="Go die a few more times", bg='black', fg='white', wraplength=250)
     success_text.pack(ipady=10)
 
     main.mainloop()
